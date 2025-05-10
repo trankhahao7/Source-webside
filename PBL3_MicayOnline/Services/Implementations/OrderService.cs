@@ -3,9 +3,10 @@ using PBL3_MicayOnline.Data;
 using PBL3_MicayOnline.Models;
 using PBL3_MicayOnline.Models.DTOs;
 using PBL3_MicayOnline.Services.Interfaces;
-
 namespace PBL3_MicayOnline.Services.Implementations
 {
+
+
     public class OrderService : IOrderService
     {
         private readonly Pbl3Context _context;
@@ -15,7 +16,7 @@ namespace PBL3_MicayOnline.Services.Implementations
             _context = context;
         }
 
-        public async Task<IEnumerable<OrderDto>> GetAllAsync()
+        public async Task<IEnumerable<OrderDto>> GetAllOrdersAsync()
         {
             return await _context.Orders
                 .Include(o => o.User)
@@ -24,15 +25,15 @@ namespace PBL3_MicayOnline.Services.Implementations
                     OrderId = o.OrderId,
                     UserId = o.UserId,
                     Username = o.User.Username,
-                    TotalAmount = o.TotalAmount,
                     Status = o.Status,
+                    TotalAmount = o.TotalAmount,
                     OrderDate = o.OrderDate,
                     PromoCodeId = o.PromoCodeId
                 })
                 .ToListAsync();
         }
 
-        public async Task<OrderDto?> GetByIdAsync(int id)
+        public async Task<OrderDto?> GetOrderByIdAsync(int id)
         {
             return await _context.Orders
                 .Include(o => o.User)
@@ -42,15 +43,15 @@ namespace PBL3_MicayOnline.Services.Implementations
                     OrderId = o.OrderId,
                     UserId = o.UserId,
                     Username = o.User.Username,
-                    TotalAmount = o.TotalAmount,
                     Status = o.Status,
+                    TotalAmount = o.TotalAmount,
                     OrderDate = o.OrderDate,
                     PromoCodeId = o.PromoCodeId
                 })
                 .FirstOrDefaultAsync();
         }
 
-        public async Task<Order?> CreateAsync(OrderCreateDto dto)
+        public async Task<OrderDto?> CreateOrderAsync(OrderCreateDto dto)
         {
             var order = new Order
             {
@@ -79,29 +80,40 @@ namespace PBL3_MicayOnline.Services.Implementations
 
             _context.Orders.Add(order);
             await _context.SaveChangesAsync();
-            return order;
+
+            var username = (await _context.Users.FindAsync(order.UserId))?.Username ?? "";
+
+            return new OrderDto
+            {
+                OrderId = order.OrderId,
+                UserId = order.UserId,
+                Username = username,
+                Status = order.Status,
+                TotalAmount = order.TotalAmount,
+                OrderDate = order.OrderDate,
+                PromoCodeId = order.PromoCodeId
+            };
         }
 
-        public async Task<bool> DeleteAsync(int id)
+        public async Task<bool> UpdateOrderStatusAsync(int id, string status)
         {
-            var order = await _context.Orders
-                .Include(o => o.OrderDetails)
+            var order = await _context.Orders.FindAsync(id);
+            if (order == null) return false;
+
+            order.Status = status;
+            await _context.SaveChangesAsync();
+            return true;
+        }
+
+        public async Task<bool> DeleteOrderAsync(int id)
+        {
+            var order = await _context.Orders.Include(o => o.OrderDetails)
                 .FirstOrDefaultAsync(o => o.OrderId == id);
 
             if (order == null) return false;
 
             _context.OrderDetails.RemoveRange(order.OrderDetails);
             _context.Orders.Remove(order);
-            await _context.SaveChangesAsync();
-            return true;
-        }
-
-        public async Task<bool> UpdateStatusAsync(int id, string status)
-        {
-            var order = await _context.Orders.FindAsync(id);
-            if (order == null) return false;
-
-            order.Status = status;
             await _context.SaveChangesAsync();
             return true;
         }

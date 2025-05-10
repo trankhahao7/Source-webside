@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PBL3_MicayOnline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fec4dbb60ae33db646961999e07232c6795cb78d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PBL3_MicayOnline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PBL3_MicayOnline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

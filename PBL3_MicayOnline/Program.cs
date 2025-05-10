@@ -5,6 +5,11 @@ using Microsoft.OpenApi.Models;
 using PBL3_MicayOnline.Data;
 using PBL3_MicayOnline.Services.Implementations;
 using PBL3_MicayOnline.Services.Interfaces;
+using System.Security.Claims;
+
+
+//using PBL3_MicayOnline.Services.Implementations;
+//using PBL3_MicayOnline.Services.Interfaces;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,6 +19,14 @@ var jwtSettings = builder.Configuration.GetSection("JwtSettings");
 
 // Đăng ký Services
 builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IPaymentService, PaymentService>();
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IOrderService, OrderService>();
+builder.Services.AddScoped<IFeedbackService, FeedbackService>();
+builder.Services.AddScoped<IHashingService, HashingService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 // Kết nối DB
 builder.Services.AddDbContext<Pbl3Context>(options =>
@@ -66,7 +79,17 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidIssuer = jwtSettings["Issuer"],
             ValidAudience = jwtSettings["Audience"],
             IssuerSigningKey = new SymmetricSecurityKey(
-                Encoding.UTF8.GetBytes(jwtSettings["SecretKey"]!))
+                Encoding.UTF8.GetBytes(jwtSettings["SecretKey"]!)),
+            RoleClaimType = ClaimTypes.Role
+        };
+        // log neeys lỗi
+        options.Events = new JwtBearerEvents
+        {
+            OnAuthenticationFailed = context =>
+            {
+                Console.WriteLine("❌ JWT lỗi: " + context.Exception.Message);
+                return Task.CompletedTask;
+            }
         };
     });
 
@@ -84,13 +107,15 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-// 🛡 Bảo mật
-app.UseAuthentication();
-app.UseAuthorization();
+
 
 // Swagger UI
 app.UseSwagger();
 app.UseSwaggerUI();
+
+// 🛡 Bảo mật
+app.UseAuthentication();
+app.UseAuthorization();
 
 // Route
 app.MapControllerRoute(

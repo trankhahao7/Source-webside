@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phamt\\source\\repos\\PBL3_MicayOnline\\PBL3_MicayOnline\\PBL3_MicayOnline.csproj": {}
+    "C:\\Users\\phamt\\Source-webside\\PBL3_MicayOnline\\PBL3_MicayOnline.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phamt\\source\\repos\\PBL3_MicayOnline\\PBL3_MicayOnline\\PBL3_MicayOnline.csproj": {
+    "C:\\Users\\phamt\\Source-webside\\PBL3_MicayOnline\\PBL3_MicayOnline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phamt\\source\\repos\\PBL3_MicayOnline\\PBL3_MicayOnline\\PBL3_MicayOnline.csproj",
+        "projectUniqueName": "C:\\Users\\phamt\\Source-webside\\PBL3_MicayOnline\\PBL3_MicayOnline.csproj",
         "projectName": "PBL3_MicayOnline",
-        "projectPath": "C:\\Users\\phamt\\source\\repos\\PBL3_MicayOnline\\PBL3_MicayOnline\\PBL3_MicayOnline.csproj",
+        "projectPath": "C:\\Users\\phamt\\Source-webside\\PBL3_MicayOnline\\PBL3_MicayOnline.csproj",
         "packagesPath": "C:\\Users\\phamt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phamt\\source\\repos\\PBL3_MicayOnline\\PBL3_MicayOnline\\obj\\",
+        "outputPath": "C:\\Users\\phamt\\Source-webside\\PBL3_MicayOnline\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

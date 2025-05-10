@@ -1,116 +1,58 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore; // ✅ Cần dòng này để dùng Include
-using PBL3_MicayOnline.Data;
-using PBL3_MicayOnline.Models;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using PBL3_MicayOnline.Models.DTOs;
-[ApiController]
-[Route("api/[controller]")]
-public class UserApiController : ControllerBase
+using PBL3_MicayOnline.Services.Interfaces;
+
+namespace PBL3_MicayOnline.Controllers
 {
-    private readonly Pbl3Context _context;
-    public UserApiController(Pbl3Context context) => _context = context;
-
-    [HttpGet]
-    public async Task<ActionResult<IEnumerable<UserDto>>> GetUsers()
+    [ApiController]
+    [Route("api/[controller]")]
+    [Authorize(Roles = "Admin")] // ✅ Chỉ Admin mới có quyền quản lý user
+    public class UserApiController : ControllerBase
     {
-        var users = await _context.Users
-            .Include(u => u.Orders)
-            .Include(u => u.Feedbacks)
-            .Select(u => new UserDto
-            {
-                UserId = u.UserId,
-                Username = u.Username,
-                FullName = u.FullName,
-                Email = u.Email,
-                Role = u.Role,
-                CreatedAt = u.CreatedAt,
-                OrderCount = u.Orders.Count,
-                FeedbackCount = u.Feedbacks.Count
-            }).ToListAsync();
+        private readonly IUserService _userService;
 
-        return users;
-    }
-
-    [HttpGet("{id}")]
-    public async Task<ActionResult<UserDto>> GetUser(int id)
-    {
-        var u = await _context.Users
-            .Include(u => u.Orders)
-            .Include(u => u.Feedbacks)
-            .FirstOrDefaultAsync(u => u.UserId == id);
-
-        if (u == null) return NotFound();
-
-        var dto = new UserDto
+        public UserApiController(IUserService userService)
         {
-            UserId = u.UserId,
-            Username = u.Username,
-            FullName = u.FullName,
-            Email = u.Email,
-            Role = u.Role,
-            CreatedAt = u.CreatedAt,
-            OrderCount = u.Orders.Count,
-            FeedbackCount = u.Feedbacks.Count
-        };
+            _userService = userService;
+        }
 
-        return dto;
-    }
-
-    [HttpPost]
-    public async Task<ActionResult<UserDto>> Create(UserCreateDto dto)
-    {
-        var user = new User
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<UserDto>>> GetUsers()
         {
-            Username = dto.Username,
-            PasswordHash = dto.PasswordHash,
-            FullName = dto.FullName,
-            Email = dto.Email,
-            Phone = dto.Phone,
-            Role = dto.Role,
-            CreatedAt = DateTime.Now
-        };
+            var users = await _userService.GetAllUsersAsync();
+            return Ok(users);
+        }
 
-        _context.Users.Add(user);
-        await _context.SaveChangesAsync();
-
-        var result = new UserDto
+        [HttpGet("{id}")]
+        public async Task<ActionResult<UserDto>> GetUser(int id)
         {
-            UserId = user.UserId,
-            Username = user.Username,
-            FullName = user.FullName,
-            Email = user.Email,
-            Role = user.Role,
-            CreatedAt = user.CreatedAt,
-            OrderCount = 0,
-            FeedbackCount = 0
-        };
+            var user = await _userService.GetUserByIdAsync(id);
+            if (user == null) return NotFound();
+            return Ok(user);
+        }
 
-        return CreatedAtAction(nameof(GetUser), new { id = user.UserId }, result);
-    }
+        [HttpPost]
+        public async Task<ActionResult<UserDto>> Create(UserCreateDto dto)
+        {
+            var createdUser = await _userService.CreateUserAsync(dto);
+            return CreatedAtAction(nameof(GetUser), new { id = createdUser.UserId }, createdUser);
+        }
 
-    [HttpPut("{id}")]
-    public async Task<IActionResult> Update(int id, UserUpdateDto dto)
-    {
-        var user = await _context.Users.FindAsync(id);
-        if (user == null) return NotFound();
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, UserUpdateDto dto)
+        {
+            var success = await _userService.UpdateUserAsync(id, dto);
+            if (!success) return NotFound();
+            return NoContent();
+        }
 
-        user.FullName = dto.FullName ?? user.FullName;
-        user.Email = dto.Email ?? user.Email;
-        user.Phone = dto.Phone ?? user.Phone;
-        user.Role = dto.Role ?? user.Role;
-
-        await _context.SaveChangesAsync();
-        return NoContent();
-    }
-
-    [HttpDelete("{id}")]
-    public async Task<IActionResult> Delete(int id)
-    {
-        var user = await _context.Users.FindAsync(id);
-        if (user == null) return NotFound();
-
-        _context.Users.Remove(user);
-        await _context.SaveChangesAsync();
-        return NoContent();
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var success = await _userService.DeleteUserAsync(id);
+            if (!success) return NotFound();
+            return NoContent();
+        }
     }
 }

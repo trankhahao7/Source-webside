@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l44o6jo5bPM=",
+  "dgSpecHash": "VKUVfOZcOwI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\phamt\\source\\repos\\PBL3_MicayOnline\\PBL3_MicayOnline\\PBL3_MicayOnline.csproj",
+  "projectFilePath": "C:\\Users\\phamt\\Source-webside\\PBL3_MicayOnline\\PBL3_MicayOnline.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phamt\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\phamt\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -3,7 +3,6 @@ using PBL3_MicayOnline.Data;
 using PBL3_MicayOnline.Models;
 using PBL3_MicayOnline.Models.DTOs;
 using PBL3_MicayOnline.Services.Interfaces;
-
 namespace PBL3_MicayOnline.Services.Implementations
 {
     public class ProductService : IProductService
@@ -15,7 +14,7 @@ namespace PBL3_MicayOnline.Services.Implementations
             _context = context;
         }
 
-        public async Task<IEnumerable<ProductDto>> GetAllAsync()
+        public async Task<IEnumerable<ProductDto>> GetAllProductsAsync()
         {
             return await _context.Products
                 .Include(p => p.Category)
@@ -26,56 +25,89 @@ namespace PBL3_MicayOnline.Services.Implementations
                     Description = p.Description,
                     Price = p.Price,
                     ImageUrl = p.ImageUrl,
-                    CategoryId = p.CategoryId ?? 0,
-                    CategoryName = p.Category != null ? p.Category.Name : "",
-                    IsPopular = p.IsPopular ?? false,
-                    IsActive = p.IsActive ?? true
+                    CategoryId = p.CategoryId,
+                    CategoryName = p.Category != null ? p.Category.Name : null,
+                    IsPopular = p.IsPopular,
+                    IsActive = p.IsActive
                 })
                 .ToListAsync();
         }
 
-        public async Task<ProductDto?> GetByIdAsync(int id)
+        public async Task<ProductDto?> GetProductByIdAsync(int id)
         {
-            return await _context.Products
+            var p = await _context.Products
                 .Include(p => p.Category)
-                .Where(p => p.ProductId == id)
-                .Select(p => new ProductDto
-                {
-                    ProductId = p.ProductId,
-                    Name = p.Name,
-                    Description = p.Description,
-                    Price = p.Price,
-                    ImageUrl = p.ImageUrl,
-                    CategoryId = p.CategoryId ?? 0,
-                    CategoryName = p.Category != null ? p.Category.Name : "",
-                    IsPopular = p.IsPopular ?? false,
-                    IsActive = p.IsActive ?? true
-                })
-                .FirstOrDefaultAsync();
+                .FirstOrDefaultAsync(p => p.ProductId == id);
+
+            if (p == null) return null;
+
+            return new ProductDto
+            {
+                ProductId = p.ProductId,
+                Name = p.Name,
+                Description = p.Description,
+                Price = p.Price,
+                ImageUrl = p.ImageUrl,
+                CategoryId = p.CategoryId,
+                CategoryName = p.Category?.Name,
+                IsPopular = p.IsPopular,
+                IsActive = p.IsActive
+            };
         }
 
-        public async Task<Product> CreateAsync(Product product)
+        public async Task<ProductDto> CreateProductAsync(ProductCreateDto dto)
         {
+            var product = new Product
+            {
+                Name = dto.Name,
+                Description = dto.Description,
+                Price = dto.Price,
+                ImageUrl = dto.ImageUrl,
+                CategoryId = dto.CategoryId,
+                IsPopular = dto.IsPopular ?? false,
+                IsActive = dto.IsActive ?? true
+            };
+
             _context.Products.Add(product);
             await _context.SaveChangesAsync();
-            return product;
+
+            return new ProductDto
+            {
+                ProductId = product.ProductId,
+                Name = product.Name,
+                Description = product.Description,
+                Price = product.Price,
+                ImageUrl = product.ImageUrl,
+                CategoryId = product.CategoryId,
+                CategoryName = (await _context.Categories.FindAsync(product.CategoryId))?.Name,
+                IsPopular = product.IsPopular,
+                IsActive = product.IsActive
+            };
         }
 
-        public async Task<bool> UpdateAsync(int id, Product product)
+        public async Task<bool> UpdateProductAsync(int id, ProductUpdateDto dto)
         {
-            if (id != product.ProductId)
-                return false;
+            if (id != dto.ProductId) return false;
 
-            _context.Entry(product).State = EntityState.Modified;
+            var product = await _context.Products.FindAsync(id);
+            if (product == null) return false;
+
+            product.Name = dto.Name;
+            product.Description = dto.Description;
+            product.Price = dto.Price;
+            product.ImageUrl = dto.ImageUrl;
+            product.CategoryId = dto.CategoryId;
+            product.IsPopular = dto.IsPopular ?? product.IsPopular;
+            product.IsActive = dto.IsActive ?? product.IsActive;
+
             await _context.SaveChangesAsync();
             return true;
         }
 
-        public async Task<bool> DeleteAsync(int id)
+        public async Task<bool> DeleteProductAsync(int id)
         {
             var product = await _context.Products.FindAsync(id);
-            if (product == null)
-                return false;
+            if (product == null) return false;
 
             _context.Products.Remove(product);
             await _context.SaveChangesAsync();

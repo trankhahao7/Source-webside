@@ -1,7 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
-using PBL3_MicayOnline.Data;
 using PBL3_MicayOnline.Models;
 using PBL3_MicayOnline.Models.DTOs;
 using PBL3_MicayOnline.Services.Interfaces;
@@ -15,48 +14,46 @@ namespace PBL3_MicayOnline.Controllers
     [Route("api/[controller]")]
     public class AuthController : ControllerBase
     {
-        private readonly Pbl3Context _context;
-        private readonly IUserService _userService;
+        private readonly IAuthService _authService;
+        private readonly IUserService _userService; // nếu muốn dùng cho đăng ký
         private readonly IConfiguration _configuration;
+        private readonly IHashingService _hashingService;
 
-        public AuthController(Pbl3Context context, IUserService userService, IConfiguration configuration)
+        public AuthController(IAuthService authService, IUserService userService, IConfiguration configuration, IHashingService hashingService)
         {
-            _context = context;
+            _authService = authService;
             _userService = userService;
             _configuration = configuration;
+            _hashingService = hashingService;
         }
 
         // POST: api/auth/register
+        [AllowAnonymous]
         [HttpPost("register")]
         public async Task<IActionResult> Register(UserCreateDto dto)
         {
-            if (await _context.Users.AnyAsync(u => u.Username == dto.Username))
-                return BadRequest("Username already exists");
+            // 1. Kiểm tra username đã tồn tại
+            var existing = await _userService.GetUserByUsernameAsync(dto.Username);
+            if (existing != null)
+                return BadRequest("Username đã tồn tại.");
 
-            var user = new User
-            {
-                Username = dto.Username,
-                PasswordHash = dto.PasswordHash,
-                FullName = dto.FullName,
-                Email = dto.Email,
-                Phone = dto.Phone,
-                Role = dto.Role,
-                CreatedAt = DateTime.Now
-            };
+            // 2. Hash mật khẩu
+            var hashed = _hashingService.HashPassword(dto.PasswordHash);
+            dto.PasswordHash = hashed;
 
-            _context.Users.Add(user);
-            await _context.SaveChangesAsync();
-
-            return Ok(new { message = "Registration successful", userId = user.UserId });
+            // 3. Tạo mới
+            var createdUser = await _userService.CreateUserAsync(dto);
+            return Ok(new { message = "Đăng ký thành công", userId = createdUser.UserId });
         }
 
+
         // POST: api/auth/login
+        [AllowAnonymous]
         [HttpPost("login")]
         public async Task<IActionResult> Login(LoginDto dto)
         {
-            var user = await _userService.LoginAsync(dto.Username, dto.PasswordHash);
-            if (user == null)
-                return Unauthorized("Invalid credentials");
+            var user = await _authService.LoginAsync(dto.Username, dto.PasswordHash);
+            if (user == null) return Unauthorized("Invalid credentials");
 
             var token = GenerateJwtToken(user);
 
@@ -71,12 +68,14 @@ namespace PBL3_MicayOnline.Controllers
         }
 
         // PUT: api/auth/change-password
+        [Authorize(Roles = "Admin")]
         [HttpPut("change-password")]
         public async Task<IActionResult> ChangePassword(ChangePasswordDto dto)
         {
-            var success = await _userService.ChangePasswordAsync(dto.UserId, dto.NewPasswordHash);
+            var newHashed = _hashingService.HashPassword(dto.NewPasswordHash);
+            var success = await _authService.AdminForceChangePasswordAsync(dto.UserId, newHashed);
             if (!success) return NotFound("User not found");
-            return Ok("Password updated successfully");
+            return Ok("Password updated successfully.");
         }
 
         // 🛠 Generate JWT Token
@@ -86,7 +85,8 @@ namespace PBL3_MicayOnline.Controllers
             {
                 new Claim(ClaimTypes.NameIdentifier, user.UserId.ToString()),
                 new Claim(ClaimTypes.Name, user.Username),
-                new Claim(ClaimTypes.Role, user.Role)
+                new Claim(ClaimTypes.Role, user.Role),
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
             };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(

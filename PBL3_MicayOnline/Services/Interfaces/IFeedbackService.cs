@@ -1,14 +1,12 @@
-﻿using PBL3_MicayOnline.Models;
-using PBL3_MicayOnline.Models.DTOs;
-
+﻿using PBL3_MicayOnline.Models.DTOs;
 namespace PBL3_MicayOnline.Services.Interfaces
 {
     public interface IFeedbackService
     {
-        Task<IEnumerable<FeedbackDto>> GetAllAsync();
-        Task<FeedbackDto?> GetByIdAsync(int id);
-        Task<Feedback> CreateAsync(Feedback feedback);
-        Task<bool> ApproveAsync(int id);
-        Task<bool> DeleteAsync(int id);
+        Task<IEnumerable<FeedbackDto>> GetAllFeedbacksAsync();
+        Task<FeedbackDto?> GetFeedbackByIdAsync(int id);
+        Task<FeedbackDto> CreateFeedbackAsync(FeedbackCreateDto dto);
+        Task<bool> ApproveFeedbackAsync(int id);
+        Task<bool> DeleteFeedbackAsync(int id);
     }
 }

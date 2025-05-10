@@ -1,141 +1,83 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using PBL3_MicayOnline.Data;
-using PBL3_MicayOnline.Models;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 using PBL3_MicayOnline.Models.DTOs;
+using PBL3_MicayOnline.Services.Interfaces;
 
 namespace PBL3_MicayOnline.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize] // Áp dụng cho toàn controller
     public class OrderApiController : ControllerBase
     {
-        private readonly Pbl3Context _context;
+        private readonly IOrderService _orderService;
 
-        public OrderApiController(Pbl3Context context)
+        public OrderApiController(IOrderService orderService)
         {
-            _context = context;
+            _orderService = orderService;
         }
 
         // GET: api/order
         [HttpGet]
         public async Task<ActionResult<IEnumerable<OrderDto>>> GetOrders()
         {
-            var orders = await _context.Orders
-                .Include(o => o.User)
-                .Select(o => new OrderDto
-                {
-                    OrderId = o.OrderId,
-                    UserId = o.UserId,
-                    Username = o.User.Username,
-                    Status = o.Status,
-                    TotalAmount = o.TotalAmount,
-                    OrderDate = o.OrderDate,
-                    PromoCodeId = o.PromoCodeId
-                })
-                .ToListAsync();
+            var role = User.FindFirstValue(ClaimTypes.Role);
+            var userId = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)!);
 
-            return orders;
+            var orders = await _orderService.GetAllOrdersAsync();
+
+            if (role == "Admin" || role == "Employee")
+                return Ok(orders);
+
+            // Lọc đơn của chính người dùng
+            var userOrders = orders.Where(o => o.UserId == userId);
+            return Ok(userOrders);
         }
 
         // GET: api/order/5
         [HttpGet("{id}")]
         public async Task<ActionResult<OrderDto>> GetOrder(int id)
         {
-            var order = await _context.Orders
-                .Include(o => o.User)
-                .Where(o => o.OrderId == id)
-                .Select(o => new OrderDto
-                {
-                    OrderId = o.OrderId,
-                    UserId = o.UserId,
-                    Username = o.User.Username,
-                    Status = o.Status,
-                    TotalAmount = o.TotalAmount,
-                    OrderDate = o.OrderDate,
-                    PromoCodeId = o.PromoCodeId
-                })
-                .FirstOrDefaultAsync();
-
+            var order = await _orderService.GetOrderByIdAsync(id);
             if (order == null) return NotFound();
-            return order;
+
+            var role = User.FindFirstValue(ClaimTypes.Role);
+            var userId = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)!);
+
+            if (role != "Admin" && role != "Employee" && order.UserId != userId)
+                return Forbid("Bạn không được phép xem đơn hàng này");
+
+            return Ok(order);
         }
 
         // POST: api/order
+        [Authorize(Roles = "Customer")]
         [HttpPost]
         public async Task<ActionResult<OrderDto>> CreateOrder(OrderCreateDto dto)
         {
-            var order = new Order
-            {
-                UserId = dto.UserId,
-                PromoCodeId = dto.PromoCodeId,
-                OrderDate = DateTime.Now,
-                Status = "Pending",
-                TotalAmount = 0,
-                OrderDetails = new List<OrderDetail>()
-            };
-
-            foreach (var item in dto.Items)
-            {
-                var product = await _context.Products.FindAsync(item.ProductId);
-                if (product == null)
-                    return BadRequest($"Product ID {item.ProductId} not found.");
-
-                order.OrderDetails.Add(new OrderDetail
-                {
-                    ProductId = product.ProductId,
-                    Quantity = item.Quantity,
-                    UnitPrice = product.Price
-                });
-
-                order.TotalAmount += product.Price * item.Quantity;
-            }
-
-            _context.Orders.Add(order);
-            await _context.SaveChangesAsync();
-
-            // Trả về DTO sau khi tạo
-            var result = new OrderDto
-            {
-                OrderId = order.OrderId,
-                UserId = order.UserId,
-                Username = (await _context.Users.FindAsync(order.UserId))?.Username ?? "",
-                Status = order.Status,
-                TotalAmount = order.TotalAmount,
-                OrderDate = order.OrderDate,
-                PromoCodeId = order.PromoCodeId
-            };
-
-            return CreatedAtAction(nameof(GetOrder), new { id = order.OrderId }, result);
+            var created = await _orderService.CreateOrderAsync(dto);
+            if (created == null) return BadRequest("Sản phẩm không hợp lệ");
+            return CreatedAtAction(nameof(GetOrder), new { id = created.OrderId }, created);
         }
 
         // PUT: api/order/5/status
+        [Authorize(Roles = "Admin,Employee")]
         [HttpPut("{id}/status")]
         public async Task<IActionResult> UpdateStatus(int id, [FromBody] string status)
         {
-            var order = await _context.Orders.FindAsync(id);
-            if (order == null) return NotFound();
-
-            order.Status = status;
-            await _context.SaveChangesAsync();
-
+            var success = await _orderService.UpdateOrderStatusAsync(id, status);
+            if (!success) return NotFound();
             return NoContent();
         }
 
         // DELETE: api/order/5
+        [Authorize(Roles = "Admin")]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteOrder(int id)
         {
-            var order = await _context.Orders
-                .Include(o => o.OrderDetails)
-                .FirstOrDefaultAsync(o => o.OrderId == id);
-
-            if (order == null) return NotFound();
-
-            _context.OrderDetails.RemoveRange(order.OrderDetails);
-            _context.Orders.Remove(order);
-            await _context.SaveChangesAsync();
-
+            var success = await _orderService.DeleteOrderAsync(id);
+            if (!success) return NotFound();
             return NoContent();
         }
     }

@@ -32,6 +32,8 @@ public partial class Pbl3Context : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
+    public virtual DbSet<Payment> Payments { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         => optionsBuilder.UseSqlServer("Name=PBL3Db");
 
@@ -166,6 +168,35 @@ public partial class Pbl3Context : DbContext
             entity.Property(e => e.Role).HasMaxLength(20);
             entity.Property(e => e.Username).HasMaxLength(50);
         });
+
+        modelBuilder.Entity<Payment>(entity =>
+        {
+            entity.HasKey(e => e.PaymentId).HasName("PK__Payments__PaymentId");
+
+            entity.Property(e => e.Amount).HasColumnType("decimal(18, 2)");
+            entity.Property(e => e.PaymentMethod).HasMaxLength(50);
+            entity.Property(e => e.Status).HasMaxLength(50);
+            entity.Property(e => e.PaidAt).HasColumnType("datetime");
+            entity.Property(e => e.TransactionCode).HasMaxLength(100);
+            entity.Property(e => e.RefundedAmount).HasColumnType("decimal(18, 2)");
+            entity.Property(e => e.PaymentChannel).HasMaxLength(50);
+            entity.Property(e => e.Note).HasColumnType("nvarchar(max)");
+            entity.Property(e => e.CreatedAt)
+                  .HasColumnType("datetime")
+                  .HasDefaultValueSql("(getdate())");
+
+            entity.HasOne(e => e.Order)
+                  .WithMany(o => o.Payments)
+                  .HasForeignKey(e => e.OrderId)
+                  .HasConstraintName("FK_Payments_Orders");
+
+            entity.HasOne(e => e.ConfirmedByUser)
+                  .WithMany()
+                  .HasForeignKey(e => e.ConfirmedBy)
+                  .OnDelete(DeleteBehavior.Restrict)
+                  .HasConstraintName("FK_Payments_Users_ConfirmedBy");
+        });
+
 
         OnModelCreatingPartial(modelBuilder);
     }
