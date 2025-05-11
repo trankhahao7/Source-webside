@@ -4,32 +4,71 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - PBL3_MicayOnline</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> *@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/PBL3_MicayOnline.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/loginsuccessful.css" asp-append-version="true" />
+
+    <link rel="stylesheet" href="~/css/header.css" asp-append-version="true" />
+
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">PBL3_MicayOnline</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
+    @* Header for Guest (Not Logged In) *@
+    <header id="guestheader">
+        <nav class="navbar">
+            <div class="nav-center">
+                <a href="/" class="nav-item">Trang Chủ</a>
+                <a href="/Menu" class="nav-item">Thực Đơn</a>
+                <a asp-controller="Account" asp-action="Login" class="nav-item">Đăng Nhập</a>
+                <a asp-controller="Account" asp-action="Create" class="nav-item">Đăng Ký</a>
+            </div>
+        </nav>
+    </header>
+
+    @* Header for Admin (Logged In) *@
+    <header id="adminheader" style="display: none;">
+        <nav class="navbar">
+            <div class="nav-center">
+                <a href="/Admin/Dashboard" class="nav-item">Trang Chủ Admin</a>
+                <a href="/Admin/ManagerStaff" class="nav-item">Quản lý Nhân viên</a>
+                <a href="/Admin/ManagerCustomer" class="nav-item">Quản lý Khách hàng</a>
+                <a href="/Admin/ManagerProducts" class="nav-item">Quản lý sản phẩm</a>
+                <a href="/Admin/Statistics" class="nav-item">Thống kê</a>
+            </div>
+            <div class="nav-right">
+                <div class="user-menu">
+                    <i class="fa-solid fa-circle-user user-icon"></i>
+                    <div class="user-dropdown">
+                        <a href="/Admin/EditProfile">Chỉnh sửa thông tin</a>
+                        <a href="#" class="logout-link">Đăng xuất</a>
+                    </div>
                 </div>
             </div>
         </nav>
     </header>
+
+    @*Header for customer(logged in)*@
+    <header id="customerheader" style="display: none;">
+        <nav class="navbar">
+            <div class="nav-center">
+                <a href="/" class="nav-item">Trang Chủ</a>
+                <a href="/Order/Create" class="nav-item">Đặt hàng</a>
+                <a href="/Cart" class="nav-item">Giỏ hàng</a>
+            </div>
+            <div class="nav-right">
+                <div class="user-menu">
+                    <i class="fa-solid fa-circle-user user-icon"></i>
+                    <div class="user-dropdown">
+                        <a href="/Customer/EditProfile">Chỉnh sửa thông tin</a>
+                        <a href="/" class="logout-link">Đăng xuất</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -41,9 +80,11 @@
             &copy; 2025 - PBL3_MicayOnline - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
+    @* <script src="~/lib/jquery/dist/jquery.min.js"></script> *@
+    @* <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script> *@
+    @* <script src="~/js/site.js" asp-append-version="true"></script> *@
+
+    <script src="~/js/current.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

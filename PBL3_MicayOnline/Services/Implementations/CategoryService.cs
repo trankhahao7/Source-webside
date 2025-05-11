@@ -84,5 +84,61 @@ namespace PBL3_MicayOnline.Services.Implementations
             await _context.SaveChangesAsync();
             return true;
         }
+        public async Task<IEnumerable<CategoryWithImageDto>> GetAllCategoriesWithRepresentativeImageAsync()
+        {
+            return await _context.Categories
+                .Select(c => new CategoryWithImageDto
+                {
+                    CategoryId = c.CategoryId,
+                    Name = c.Name,
+                    Description = c.Description,
+                    RepresentativeImage = _context.Products
+                        .Where(p => p.CategoryId == c.CategoryId)
+                        .Select(p => new ProductDto
+                        {
+                            ProductId = p.ProductId,
+                            Name = p.Name,
+                            Description = p.Description,
+                            Price = p.Price,
+                            ImageUrl = p.ImageUrl,
+                            CategoryId = p.CategoryId,
+                            CategoryName = c.Name,
+                            IsPopular = p.IsPopular,
+                            IsActive = p.IsActive
+                        })
+                        .FirstOrDefault() != null // Check for null explicitly
+                        ? _context.Products
+                            .Where(p => p.CategoryId == c.CategoryId)
+                            .Select(p => p.ImageUrl)
+                            .FirstOrDefault()
+                        : null // Return null if no product is found
+                })
+                .ToListAsync();
+        }
+
+
+
+        public async Task<IEnumerable<ProductDto>> GetProductsByCategoryIdAsync(int categoryId)
+        {
+            return await _context.Products
+                .Where(p => p.CategoryId == categoryId)
+                .Select(p => new ProductDto
+                {
+                    ProductId = p.ProductId,
+                    Name = p.Name,
+                    Description = p.Description,
+                    Price = p.Price,
+                    ImageUrl = p.ImageUrl,
+                    CategoryId = p.CategoryId,
+                    CategoryName = _context.Categories
+                        .Where(c => c.CategoryId == p.CategoryId)
+                        .Select(c => c.Name)
+                        .FirstOrDefault(),
+                    IsPopular = p.IsPopular,
+                    IsActive = p.IsActive
+                })
+                .ToListAsync();
+        }
+
     }
 }

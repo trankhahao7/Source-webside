@@ -8,5 +8,8 @@ namespace PBL3_MicayOnline.Services.Interfaces
         Task<CategoryDto> CreateCategoryAsync(CategoryCreateDto dto);
         Task<bool> UpdateCategoryAsync(int id, CategoryCreateDto dto);
         Task<bool> DeleteCategoryAsync(int id);
+        Task<IEnumerable<CategoryWithImageDto>> GetAllCategoriesWithRepresentativeImageAsync();
+        Task<IEnumerable<ProductDto>> GetProductsByCategoryIdAsync(int categoryId);
+
     }
 }
