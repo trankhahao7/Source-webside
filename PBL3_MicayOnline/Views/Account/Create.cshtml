@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Sign Up";
+    Layout = null;
+}
+<html>
+<head>
+    <title>Mỳ cay Hot Hot - Sign Up</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <link rel="icon" type="images/png" href="~/images/logo.png">
+</head>
+<body class="signup">
+    <div class="logo-title">
+        <img src="~/images/logo.png" alt="Logo" class="logo">
+        <h1>HỆ THỐNG THƯƠNG HIỆU MÌ CAY HOT HOT</h1>
+    </div>
+
+    <div class="signup-box">
+        <h1>Sign Up</h1>
+
+        <div class="textbox">
+            <i class="fa-solid fa-circle-user"></i>
+            <input type="text" id="username" placeholder="Username">
+        </div>
+
+        <div class="textbox">
+            <i class="fa-solid fa-circle-user"></i>
+            <input type="email" id="email" placeholder="Email">
+        </div>
+
+        <div class="textbox">
+            <i class="fa-solid fa-circle-user"></i>
+            <input type="text" id="phone" placeholder="Phone Number">
+        </div>
+
+
+        <div class="textbox">
+            <i class="fa-solid fa-circle-user"></i>
+            <input type="text" id="fullname" placeholder="Full Name">
+        </div>
+
+
+        <div class="textbox">
+            <i class="fa-solid fa-lock"></i>
+            <input type="password" id="password" placeholder="Password">
+        </div>
+
+        <div class="textbox">
+            <i class="fa-solid fa-lock"></i>
+            <input type="password" id="confirm-password" placeholder="Confirm Password">
+        </div>
+
+        <input type="button" class="btn" id="register-button" value="Register" onclick="signup()">
+    </div>
+
+    <script src="/js/signup.js"></script>
+</body>
+</html>

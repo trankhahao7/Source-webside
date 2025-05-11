@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source-webside-main\\Source-webside-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|d:\\source-webside-main\\source-webside-main\\pbl3_micayonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|solutionrelative:pbl3_micayonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|d:\\source-webside-main\\source-webside-main\\pbl3_micayonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|solutionrelative:pbl3_micayonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|d:\\source-webside-main\\source-webside-main\\pbl3_micayonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|solutionrelative:pbl3_micayonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|d:\\source-webside-main\\source-webside-main\\pbl3_micayonline\\views\\menu\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|solutionrelative:pbl3_micayonline\\views\\menu\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|d:\\source-webside-main\\source-webside-main\\pbl3_micayonline\\wwwroot\\js\\current.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|solutionrelative:pbl3_micayonline\\wwwroot\\js\\current.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|d:\\source-webside-main\\source-webside-main\\pbl3_micayonline\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|solutionrelative:pbl3_micayonline\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|d:\\source-webside-main\\source-webside-main\\pbl3_micayonline\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|solutionrelative:pbl3_micayonline\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|d:\\source-webside-main\\source-webside-main\\pbl3_micayonline\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|solutionrelative:pbl3_micayonline\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|d:\\source-webside-main\\source-webside-main\\pbl3_micayonline\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|solutionrelative:pbl3_micayonline\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|d:\\source-webside-main\\source-webside-main\\pbl3_micayonline\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|solutionrelative:pbl3_micayonline\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|d:\\source-webside-main\\source-webside-main\\pbl3_micayonline\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|solutionrelative:pbl3_micayonline\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|d:\\source-webside-main\\source-webside-main\\pbl3_micayonline\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|solutionrelative:pbl3_micayonline\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|d:\\source-webside-main\\source-webside-main\\pbl3_micayonline\\data\\pbl3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED932B5-1982-4374-AB52-C1698A5EEFDA}|PBL3_MicayOnline\\PBL3_MicayOnline.csproj|solutionrelative:pbl3_micayonline\\data\\pbl3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "PBL3_MicayOnline\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "PBL3_MicayOnline\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:26:25.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "PBL3_MicayOnline\\wwwroot\\favicon.ico",
+              "ToolTip": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\wwwroot\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "PBL3_MicayOnline\\wwwroot\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-05-11T12:26:21.767Z",
+              "EditorCaption": " - Icon [16x16, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PBL3_MicayOnline\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PBL3_MicayOnline\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:24:36.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PBL3_MicayOnline\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PBL3_MicayOnline\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T12:21:22.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PBL3_MicayOnline\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PBL3_MicayOnline\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T11:59:29.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PBL3_MicayOnline\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PBL3_MicayOnline\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T12:21:19.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "PBL3_MicayOnline\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "PBL3_MicayOnline\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-11T12:18:44.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Menu\\Category.cshtml",
+              "RelativeDocumentMoniker": "PBL3_MicayOnline\\Views\\Menu\\Category.cshtml",
+              "ToolTip": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Menu\\Category.cshtml",
+              "RelativeToolTip": "PBL3_MicayOnline\\Views\\Menu\\Category.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T12:00:13.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PBL3_MicayOnline\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PBL3_MicayOnline\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T11:59:28.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "PBL3_MicayOnline\\Views\\Account\\Create.cshtml",
+              "ToolTip": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "PBL3_MicayOnline\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T11:59:25.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "current.js",
+              "DocumentMoniker": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\wwwroot\\js\\current.js",
+              "RelativeDocumentMoniker": "PBL3_MicayOnline\\wwwroot\\js\\current.js",
+              "ToolTip": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\wwwroot\\js\\current.js",
+              "RelativeToolTip": "PBL3_MicayOnline\\wwwroot\\js\\current.js",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-11T11:53:13.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PBL3_MicayOnline\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PBL3_MicayOnline\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T11:52:21.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pbl3Context.cs",
+              "DocumentMoniker": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Data\\Pbl3Context.cs",
+              "RelativeDocumentMoniker": "PBL3_MicayOnline\\Data\\Pbl3Context.cs",
+              "ToolTip": "D:\\Source-webside-main\\Source-webside-main\\PBL3_MicayOnline\\Data\\Pbl3Context.cs",
+              "RelativeToolTip": "PBL3_MicayOnline\\Data\\Pbl3Context.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAmwK0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:01:38.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
