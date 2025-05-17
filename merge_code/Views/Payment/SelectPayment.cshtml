@@ -1,0 +1,35 @@
+﻿@model List<CartItemDto>
+
+@{
+    ViewData["Title"] = "Mỳ cay Hot Hot - Thanh Toán";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+<title>@ViewData["Title"]</title>
+<link rel="stylesheet" href="~/css/payment.css" asp-append-version="true">
+</head>
+
+<body>
+    
+    <div class="payment-container">
+        <h2>Chọn Kiểu Thanh Toán</h2>
+
+        <label class="payment-option">
+            <input type="radio" name="payment" value="cod">
+            Thanh toán khi nhận hàng (COD)
+        </label>
+
+        <label class="payment-option">
+            <input type="radio" name="payment" value="momo">
+            Ví điện tử MoMo
+        </label>
+
+        <label class="payment-option">
+            <input type="radio" name="payment" value="bank">
+            Thẻ ngân hàng / ATM nội địa
+        </label>
+
+        <a asp-controller="Payment" asp-action="PaymentByCOD" class="confirm-btn">Xác nhận thanh toán</a>
+    </div>
+   
+</body>

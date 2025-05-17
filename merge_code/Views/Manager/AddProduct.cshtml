@@ -1,0 +1,60 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <title>Mỳ cay Hot Hot - Thêm Sản Phẩm</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Add.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <link rel="icon" type="images/png" href="~/images/logo.png">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">THÊM SẢN PHẨM</h1>
+        <form class="form" id="productForm">
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="productName">Tên Sản Phẩm:</label>
+                    <input type="text" id="productName">
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="description">Mô tả Sản Phẩm:</label>
+                    <input type="text" id="description">
+                </div>
+                <div class="form-group">
+                    <label for="price">Giá Sản Phẩm:</label>
+                    <input type="number" id="price">
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="categoryId">ID Danh Mục:</label>
+                    <input type="text" id="categoryId">
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group full-width">
+                    <label for="imageFile">Chọn ảnh sản phẩm:</label>
+                    <input type="file" id="imageFile" accept="image/*">
+            </div> 
+            </div>
+
+            <div class="button-group">
+                <button type="submit" class="btn">THÊM SẢN PHẨM</button>
+                <button type="reset" class="btn">RESET DỮ LIỆU</button>
+                <a href="/Manager/Product" class="btn">QUAY LẠI</a>
+            </div>
+        </form>
+    </div>
+</body>
+<script src="~/js/addproduct.js"></script>
+
+</html>

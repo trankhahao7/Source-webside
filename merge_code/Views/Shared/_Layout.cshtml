@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> *@
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/loginsuccessful.css" asp-append-version="true" />
+</head>
+<body>
+    @* Header for Guest (Not Logged In) *@
+    <header id="guestheader">
+        <nav class="navbar">
+            <div class="nav-center">
+                <a href="/" class="nav-item">Trang Chủ</a>
+                <a asp-controller="Menu" asp-action="Category" class="nav-item">Thực Đơn</a>
+                <a asp-controller="Account" asp-action="Login" class="nav-item">Đăng Nhập</a>
+                <a asp-controller="Account" asp-action="Create" class="nav-item">Đăng Ký</a>
+            </div>
+        </nav>
+    </header>
+
+    @* Header for Admin (Logged In) *@
+    <header id="adminheader" style="display: none;">
+        <nav class="navbar">
+            <div class="nav-center">
+                <a asp-area="Admin" asp-controller="Dashboard" asp-action="Index" class="nav-item">Trang Chủ Admin</a>
+                <a asp-controller="Manager" asp-action="Staff" class="nav-item">Quản lý Nhân viên</a>
+                <a asp-controller="Manager" asp-action="Customer" class="nav-item">Quản lý Khách hàng</a>
+                <a asp-controller="Manager" asp-action="Product" class="nav-item">Quản lý sản phẩm</a>
+                <a asp-controller="Statistics" asp-action="Index" class="nav-item">Thống kê</a>
+            </div>
+            <div class="nav-right">
+                <div class="user-menu">
+                    <i class="fa-solid fa-circle-user user-icon"></i>
+                    <div class="user-dropdown">
+                        <a asp-controller="Account" asp-action="Setting">Chỉnh sửa thông tin</a>
+                        <a asp-controller="Home" asp-action="Index" class="logout-link">Đăng xuất</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    @* Header for Customer (Logged In) *@
+    <header id="customerheader" style="display: none;">
+        <nav class="navbar">
+            <div class="nav-center">
+                <a href="/" class="nav-item">Trang Chủ</a>
+                <a asp-controller="Orders" asp-action="Order" class="nav-item">Đặt Hàng</a>
+                <a asp-controller="Orders" asp-action="Cart" class="nav-item">Giỏ Hàng</a>
+                <a asp-controller="Orders" asp-action="OrderHistory" class="nav-item">Lịch Sử Đơn Hàng</a>
+            </div>
+            <div class="nav-right">
+                <div class="user-menu">
+                    <i class="fa-solid fa-circle-user user-icon"></i>
+                    <div class="user-dropdown">
+                        <a asp-controller="Account" asp-action="Setting">Chỉnh sửa thông tin</a>
+                        <a asp-controller="Home" asp-action="Index" class="logout-link">Đăng xuất</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - PBL3_MicayOnline - <a asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/js/current.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

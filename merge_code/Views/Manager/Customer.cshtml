@@ -1,0 +1,76 @@
+﻿@model IEnumerable<PBL3_MicayOnline.Models.DTOs.UserDto> 
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <title>Mỳ cay Hot Hot - Quản lý Tài Khoản</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" asp-append-version="true" href="~/css/Admin.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <link rel="icon" type="images/png" href="~/images/logo.png">
+</head>
+<body>
+    <div class="container">
+        @await Html.PartialAsync("_ManageSidebar")
+
+        <div class="main-area">
+            <div class="main-content">
+                <div class="header">
+                    <h1>QUẢN LÝ TÀI KHOẢN</h1>
+                </div>
+
+                <div class="search-bar">
+                    <label for="search">Tìm kiếm:</label>
+                    <input type="text" id="search" placeholder="Nhập từ khóa...">
+                    <button id="searchBtn">Tìm kiếm</button>
+                </div>
+
+                <div class="data-table">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Username</th>
+                                <th>Họ tên</th>
+                                <th>Email</th>
+                                <th>Điện thoại</th>
+                                <th>Ngày tạo</th>
+                                <th>Chọn</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableBody">
+                            @foreach (var customer in Model)
+                            {
+                                <tr>
+                                    <td>@customer.UserId</td>
+                                    <td>@customer.Username</td>
+                                    <td>@customer.FullName</td>
+                                    <td>@customer.Email</td>
+                                    <td>@customer.Phone</td>
+                                    <td>@customer.CreatedAt</td>
+                                    <td>
+                                        <input type="checkbox" class="select-customer" data-id="@customer.UserId" />
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="action-buttons">
+                <a asp-controller="Manager" asp-action="AddCustomer" class="button">Thêm Tài Khoản</a>
+                <button id="batchDeleteBtn">Xóa Đã Chọn</button>
+                <a asp-controller="Manager" asp-action="Index" class="button">Quay Lại</a>
+            </div>
+        </div>
+    </div>
+    <script src="~/js/manageaccount.js"></script>
+</body>
+</html>
