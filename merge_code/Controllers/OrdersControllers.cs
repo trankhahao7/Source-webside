@@ -141,6 +141,20 @@ public class OrdersController : Controller
         _context.OrderDetails.AddRange(orderDetails);
 
         // 5. Cập nhật tổng tiền đơn hàng
+
+        // Áp dụng mã giảm giá nếu có
+        if (request.PromoCodeId.HasValue)
+        {
+            var promo = await _context.PromotionCodes.FindAsync(request.PromoCodeId.Value);
+            if (promo != null && promo.UsedCount < promo.MaxUsage && promo.ExpiryDate > DateTime.Now)
+            {
+                if (totalAmount >= promo.MinOrderValue)
+                {
+                    totalAmount = totalAmount * (100 - promo.Discount) / 100;
+                    promo.UsedCount += 1;
+                }
+            }
+        }
         order.TotalAmount = totalAmount;
         await _context.SaveChangesAsync();
 
@@ -195,6 +209,24 @@ public class OrdersController : Controller
     public IActionResult OrderHistory()
     {
         return View();
+    }
+
+
+    // test mã giảm giá
+    [HttpGet]
+    [AllowAnonymous]
+    public IActionResult ValidatePromo(string code)
+    {
+        var promo = _context.PromotionCodes.FirstOrDefault(p => p.Code == code);
+        if (promo == null || promo.UsedCount >= promo.MaxUsage || promo.ExpiryDate < DateTime.Now)
+            return Json(new { valid = false });
+
+        var cart = _cartService.GetCart(HttpContext);
+        var total = cart.Sum(item => item.Price * item.Quantity);
+        if (total < promo.MinOrderValue)
+            return Json(new { valid = false });
+
+        return Json(new { valid = true, discount = promo.Discount, promoCodeId = promo.PromoCodeId });
     }
 
 }
