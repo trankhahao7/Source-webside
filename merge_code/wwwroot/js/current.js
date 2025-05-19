@@ -35,7 +35,6 @@ document.addEventListener('DOMContentLoaded', function () {
         if (guestHeader) guestHeader.style.display = 'block';
     }
 
-    @param { HTMLElement } headerElement
     function setupDropdown(headerElement) {
         if (!headerElement) {
             console.error("Header element is null or undefined.");
@@ -73,4 +72,9 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         }
     }
+    if (token && !adminHeader.style.display && !customerHeader.style.display) {
+        console.warn("Token có nhưng role không khớp. Hiển thị lại guestHeader để tránh mất giao diện.");
+        guestHeader.style.display = 'block';
+    }
+
 });
