@@ -59,3 +59,7 @@ wwwroot/
 
 # Others
 Generated_Code/
+
+merge_code/.vs/
+merge_code/bin/
+merge_code/obj/

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿let appliedPromoCodeId = null;
 let appliedDiscountPercent = 0;
 let originalTotal = 0;
@@ -6,9 +5,6 @@ let originalTotal = 0;
 
 
 // Thêm sản phẩm vào giỏ hàng
-=======
-﻿// Thêm sản phẩm vào giỏ hàng
->>>>>>> origin/AN
 async function addToCart(productId, quantity = 1) {
     const res = await fetch('/Orders/AddToCartAjax', {
         method: 'POST',
@@ -165,7 +161,6 @@ function updateTotalPrice() {
         const qty = parseInt(item.querySelector('.quantity-input').value) || 0;
         total += price * qty;
     });
-<<<<<<< HEAD
 
     originalTotal = total;
 
@@ -176,20 +171,6 @@ function updateTotalPrice() {
             displayedTotal = Math.round(total * (100 - appliedDiscountPercent) / 100);
         }
         totalDiv.innerText = 'Tổng cộng: ' + displayedTotal.toLocaleString('vi-VN') + ' VNĐ';
-=======
-    const totalDiv = document.querySelector('.total-price');
-    if (totalDiv) {
-        totalDiv.innerText = 'Tổng cộng: ' + total.toLocaleString('vi-VN') + ' VNĐ';
-    }
-    // Đồng bộ lại window.cartItems với số lượng mới nhất
-    if (window.cartItems) {
-        document.querySelectorAll('.cart-item').forEach(item => {
-            const productId = parseInt(item.getAttribute('data-product-id'));
-            const qty = parseInt(item.querySelector('.quantity-input').value) || 0;
-            const cartItem = window.cartItems.find(x => x.ProductId === productId);
-            if (cartItem) cartItem.Quantity = qty;
-        });
->>>>>>> origin/AN
     }
 }
 
