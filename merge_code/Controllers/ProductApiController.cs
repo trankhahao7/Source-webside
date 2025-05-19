@@ -47,7 +47,7 @@ namespace PBL3_MicayOnline.Controllers
         // PUT: api/product/{id}
         [Authorize(Roles = "Admin,Employee")]
         [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, ProductUpdateDto dto)
+        public async Task<IActionResult> Update(int id,[FromForm] ProductUpdateDto dto)
         {
             if (id != dto.ProductId) return BadRequest();
 

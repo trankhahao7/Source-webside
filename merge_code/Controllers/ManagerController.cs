@@ -30,5 +30,15 @@ namespace PBL3_MicayOnline.Controllers
         {
             return View();
         }
+        public IActionResult Order()
+        {
+            return View();
+        }
+        public async Task<IActionResult> UpdateProduct(int id)
+        {
+            var product = await _productService.GetProductByIdAsync(id);
+            if (product == null) return NotFound();
+            return View(product);
+        }
     }
 }

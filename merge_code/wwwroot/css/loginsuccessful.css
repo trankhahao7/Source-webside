@@ -1,0 +1,264 @@
+﻿
+.logo-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+    .logo-title igm {
+        width: 40px;
+        height: auto;
+    }
+
+    .logo-title h1 {
+        font-family: 'Lobster', cursive;
+        font-size: 44px;
+        color: red;
+        text-align: center;
+    }
+
+/*        Phần Trang Chủ */
+body.home {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: white;
+}
+
+.header {
+    background-color: #8B0000;
+    padding: 15px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+}
+
+.nav-center {
+    display: flex;
+    gap: 60px;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.nav-item {
+    color: #FFD700;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+    position: relative;
+}
+
+    .nav-item:hover {
+        color: #ffffff;
+    }
+
+    .nav-item::after {
+        content: "";
+        position: absolute;
+        width: 0;
+        height: 2px;
+        background-color: #ffffff;
+        left: 0;
+        bottom: -5px;
+        transition: width 0.3s;
+    }
+
+    .nav-item:hover::after {
+        width: 100%;
+    }
+
+/* --- Icon User --- */
+.user-menu {
+    position: relative;
+    cursor: pointer;
+}
+
+.user-icon {
+    font-size: 30px;
+    color: #FFD700;
+    margin-left: 20px;
+}
+
+.user-dropdown {
+    display: none;
+    position: absolute;
+    top: 120%;
+    right: 0;
+    background-color: #8B0000;
+    border: 1px solid #FFD700;
+    border-radius: 8px;
+    overflow: hidden;
+    min-width: 180px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    z-index: 100;
+}
+
+    .user-dropdown a {
+        display: block;
+        padding: 12px 20px;
+        color: #FFD700;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 16px;
+        background-color: #8B0000;
+        transition: background-color 0.3s;
+    }
+
+        .user-dropdown a:hover {
+            background-color: #660000;
+        }
+
+
+.about-section {
+    padding: 40px 40px 5px 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.about-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 60px;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+    .about-row.reverse {
+        flex-direction: row-reverse;
+    }
+
+.about-image {
+    position: relative;
+    flex: 1 1 50%;
+    border-radius: 15px;
+    z-index: 1;
+}
+
+    .about-image img {
+        width: 100%;
+        height: auto;
+        border-radius: 15px;
+        box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+        transition: transform 0.4s ease, z-index 0.4s;
+        position: relative;
+        z-index: 1;
+    }
+
+    .about-image:hover img {
+        transform: scale(1.15);
+        z-index: 10;
+    }
+
+
+
+.about-text {
+    flex: 1 1 45%;
+    padding: 10px 20px;
+}
+
+    .about-text h2 {
+        font-size: 32px;
+        color: #ffcc00;
+        margin-bottom: 20px;
+    }
+
+    .about-text p {
+        font-size: 22px;
+        line-height: 1.7;
+        color: #333;
+    }
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.carousel-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    background-color: #440000;
+    padding: 20px 0;
+}
+
+.carousel-title {
+    margin-top: 12px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fdf0d5;
+    background: linear-gradient(to bottom, #440000, #8B0000);
+    padding: 20px 30px;
+    border-radius: 25px;
+    border: 3px solid #fdf0d5;
+    box-shadow: 0 0 25px rgba(253, 240, 213, 0.8);
+    text-align: center;
+    display: inline-block;
+}
+
+
+.carousel-track {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    gap: 20px;
+    padding: 0 40px;
+}
+
+.carousel-item {
+    flex: 0 0 auto;
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+
+/* Nút bấm trái/phải */
+.prev-btn, .next-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #fcd462;
+    border: none;
+    padding: 10px 15px;
+    font-size: 24px;
+    border-radius: 50%;
+    cursor: pointer;
+    color: #440000;
+    z-index: 10;
+    transition: background 0.3s;
+}
+
+    .prev-btn:hover, .next-btn:hover {
+        background-color: #ffd700;
+    }
+
+.prev-btn {
+    left: 10px;
+}
+
+.next-btn {
+    right: 10px;
+}
+
+/* Ẩn thanh cuộn mặc định */
+.carousel-track::-webkit-scrollbar {
+    display: none;
+}
