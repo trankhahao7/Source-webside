@@ -104,7 +104,7 @@
               "RelativeDocumentMoniker": "wwwroot\\js\\setting.js",
               "ToolTip": "C:\\Users\\phamt\\OneDrive\\Desktop\\ki3\\PBL3\\Source-webside_an\\merge_code\\merge_code\\wwwroot\\js\\setting.js",
               "RelativeToolTip": "wwwroot\\js\\setting.js",
-              "ViewState": "AgIAAN4AAAAAAAAAAAAAAEMAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAAN4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-05-19T04:21:12.461Z",
               "EditorCaption": ""
@@ -143,8 +143,7 @@
               "RelativeToolTip": "Controllers\\ProductApiController.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAA1wDEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T04:11:01.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T04:11:01.91Z"
             },
             {
               "$type": "Document",
@@ -228,8 +227,7 @@
               "RelativeToolTip": "Controllers\\ManagerController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAwwCQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T03:19:41.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T03:19:41.323Z"
             },
             {
               "$type": "Document",
@@ -265,8 +263,7 @@
               "RelativeToolTip": "Views\\Orders\\OrderHistory.cshtml",
               "ViewState": "AgIAADAAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T03:11:13.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T03:11:13.757Z"
             },
             {
               "$type": "Document",
@@ -278,8 +275,7 @@
               "RelativeToolTip": "Views\\Manager\\Product.cshtml",
               "ViewState": "AgIAADwAAAAAAAAAAIBJwEwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T02:30:32.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T02:30:32.533Z"
             },
             {
               "$type": "Document",
@@ -291,8 +287,7 @@
               "RelativeToolTip": "Views\\Manager\\AddProduct.cshtml",
               "ViewState": "AgIAACUAAAAAAAAAAADwvzQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T02:30:30.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T02:30:30.666Z"
             },
             {
               "$type": "Document",
@@ -316,8 +311,7 @@
               "RelativeToolTip": "Views\\Manager\\Customer.cshtml",
               "ViewState": "AgIAADQAAAAAAAAAAIBJwEUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T02:30:13.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T02:30:13.714Z"
             },
             {
               "$type": "Document",
@@ -341,8 +335,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwCAAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T22:54:32.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T22:54:32.909Z"
             },
             {
               "$type": "Document",
@@ -354,8 +347,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-18T22:53:15.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T22:53:15.989Z"
             }
           ]
         }
