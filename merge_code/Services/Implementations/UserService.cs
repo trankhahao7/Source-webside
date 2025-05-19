@@ -8,6 +8,7 @@ namespace PBL3_MicayOnline.Services.Implementations
     public class UserService : IUserService
     {
         private readonly Pbl3Context _context;
+        private readonly IHashingService _hashingService;
 
         public UserService(Pbl3Context context)
         {
@@ -61,7 +62,7 @@ namespace PBL3_MicayOnline.Services.Implementations
             var user = new User
             {
                 Username = dto.Username,
-                PasswordHash = dto.PasswordHash,
+                PasswordHash = _hashingService.HashPassword(dto.PasswordHash),
                 FullName = dto.FullName,
                 Email = dto.Email,
                 Phone = dto.Phone,
@@ -84,6 +85,7 @@ namespace PBL3_MicayOnline.Services.Implementations
                 FeedbackCount = 0
             };
         }
+
 
         public async Task<bool> UpdateUserAsync(int id, UserUpdateDto dto)
         {

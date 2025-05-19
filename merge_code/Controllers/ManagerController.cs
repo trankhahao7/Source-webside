@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using PBL3_MicayOnline.Models.DTOs;
 using PBL3_MicayOnline.Services.Interfaces;
 
 namespace PBL3_MicayOnline.Controllers
@@ -11,6 +12,47 @@ namespace PBL3_MicayOnline.Controllers
         {
             _userService = userService;
             _productService = productService;
+        }
+
+        // GET: /Manager/UpdateAccount/1005
+        [HttpGet]
+        [Route("Manager/UpdateAccount/{id}")]
+        public async Task<IActionResult> UpdateAccount(int id)
+        {
+            var user = await _userService.GetUserByIdAsync(id); // giả sử bạn có hàm này
+            if (user == null)
+                return NotFound();
+
+            var dto = new UserUpdateDto
+            {
+                FullName = user.FullName,
+                Email = user.Email,
+                Phone = user.Phone,
+                Role = user.Role
+            };
+
+            return View(dto); // Trả về View UpdateAccount.cshtml
+        }
+
+        // POST: /Manager/UpdateAccount/1005
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        [Route("Manager/UpdateAccount/{id}")]
+        public async Task<IActionResult> UpdateAccount(int id, UserUpdateDto dto)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(dto);
+            }
+
+            var success = await _userService.UpdateUserAsync(id, dto); // cần có phương thức này
+            if (!success)
+            {
+                ModelState.AddModelError(string.Empty, "Cập nhật thất bại.");
+                return View(dto);
+            }
+
+            return RedirectToAction("Customer");
         }
         public async Task<IActionResult> Customer()
         {

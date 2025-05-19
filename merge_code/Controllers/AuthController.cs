@@ -32,19 +32,15 @@ namespace PBL3_MicayOnline.Controllers
         [HttpPost("register")]
         public async Task<IActionResult> Register(UserCreateDto dto)
         {
-            // 1. Kiểm tra username đã tồn tại
             var existing = await _userService.GetUserByUsernameAsync(dto.Username);
             if (existing != null)
                 return BadRequest("Username đã tồn tại.");
 
-            // 2. Hash mật khẩu
-            var hashed = _hashingService.HashPassword(dto.PasswordHash);
-            dto.PasswordHash = hashed;
-
-            // 3. Tạo mới
+            // Không cần hash nữa
             var createdUser = await _userService.CreateUserAsync(dto);
             return Ok(new { message = "Đăng ký thành công", userId = createdUser.UserId });
         }
+
 
 
         // POST: api/auth/login

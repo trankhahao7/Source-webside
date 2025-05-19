@@ -1,4 +1,4 @@
-﻿@model IEnumerable<PBL3_MicayOnline.Models.DTOs.UserDto> 
+﻿@model IEnumerable<PBL3_MicayOnline.Models.DTOs.UserDto>
 
 @{
     Layout = null;
@@ -41,6 +41,7 @@
                                 <th>Email</th>
                                 <th>Điện thoại</th>
                                 <th>Ngày tạo</th>
+                                <th>Vai trò</th> <!-- Thêm cột mới -->
                                 <th>Chọn</th>
                             </tr>
                         </thead>
@@ -53,7 +54,8 @@
                                     <td>@customer.FullName</td>
                                     <td>@customer.Email</td>
                                     <td>@customer.Phone</td>
-                                    <td>@customer.CreatedAt</td>
+                                    <td>@customer.CreatedAt?.ToString("dd/MM/yyyy")</td>
+                                    <td>@customer.Role</td> <!-- Dữ liệu cột mới -->
                                     <td>
                                         <input type="checkbox" class="select-customer" data-id="@customer.UserId" />
                                     </td>
@@ -65,6 +67,7 @@
             </div>
 
             <div class="action-buttons">
+                <button id="editCustomerBtn">Chỉnh sửa Tài Khoản</button>
                 <a asp-controller="Manager" asp-action="AddCustomer" class="button">Thêm Tài Khoản</a>
                 <button id="batchDeleteBtn">Xóa Đã Chọn</button>
                 <a asp-controller="Home" asp-action="Index" class="button">Quay Lại</a>

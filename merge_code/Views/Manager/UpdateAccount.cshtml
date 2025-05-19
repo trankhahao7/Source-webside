@@ -1,0 +1,96 @@
+﻿@model PBL3_MicayOnline.Models.DTOs.UserUpdateDto
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <title>Cập nhật Tài Khoản</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Add.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <link rel="icon" type="images/png" href="~/images/logo.png">
+</head>
+<body>
+    <div class="container">
+        @await Html.PartialAsync("_ManageSidebar")
+
+        <h1 class="title">CẬP NHẬT TÀI KHOẢN</h1>
+
+        <form method="post" id="updateForm" class="form">
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="FullName">Họ và tên:</label>
+                    <input asp-for="FullName" class="form-control" id="FullName" placeholder="Nhập họ tên" />
+                </div>
+                <div class="form-group">
+                    <label for="Email">Email:</label>
+                    <input asp-for="Email" class="form-control" id="Email" placeholder="Nhập email" />
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="Phone">Số điện thoại:</label>
+                    <input asp-for="Phone" class="form-control" id="Phone" placeholder="Nhập số điện thoại" />
+                </div>
+                <div class="form-group">
+                    <label for="Role">Quyền:</label>
+                    <select asp-for="Role" class="form-control" id="Role">
+                        <option value="Customer">Customer</option>
+                        <option value="Employee">Employee</option>
+                        <option value="Admin">Admin</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="button-group">
+                <button type="submit" class="btn">CẬP NHẬT</button>
+                <a asp-controller="Manager" asp-action="Customer" class="btn">HỦY</a>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        document.getElementById('updateForm').addEventListener('submit', async function (e) {
+            e.preventDefault();
+
+            const id = window.location.pathname.split('/').pop();
+            const token = localStorage.getItem('token');
+
+            const data = {
+                fullName: document.getElementById('FullName').value,
+                email: document.getElementById('Email').value,
+                phone: document.getElementById('Phone').value,
+                role: document.getElementById('Role').value
+            };
+
+            try {
+                const response = await fetch(`/api/UserApi/${id}`, {
+                    method: 'PUT',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${token}`
+                    },
+                    body: JSON.stringify(data)
+                });
+
+                if (response.ok) {
+                    alert("Cập nhật thành công!");
+                    window.location.href = "/Manager/Customer";
+                } else {
+                    const err = await response.text();
+                    alert("Lỗi khi cập nhật: " + err);
+                }
+            } catch (error) {
+                console.error("Lỗi:", error);
+                alert("Có lỗi xảy ra.");
+            }
+        });
+    </script>
+</body>
+</html>
