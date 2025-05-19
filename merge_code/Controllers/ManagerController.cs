@@ -30,5 +30,9 @@ namespace PBL3_MicayOnline.Controllers
         {
             return View();
         }
+        public IActionResult ManagerOrder()
+        {
+            return View();
+        }
     }
 }
