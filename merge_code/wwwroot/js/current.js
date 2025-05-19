@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (guestHeader) guestHeader.style.display = 'block';
     }
 
-     {HTMLElement} headerElement
+    @param { HTMLElement } headerElement
     function setupDropdown(headerElement) {
         if (!headerElement) {
             console.error("Header element is null or undefined.");
