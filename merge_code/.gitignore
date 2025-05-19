@@ -59,3 +59,7 @@ wwwroot/
 
 # Others
 Generated_Code/
+# Thêm vào đây cho thư mục con
+merge_code/.vs/
+merge_code/bin/
+merge_code/obj/
