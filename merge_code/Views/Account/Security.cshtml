@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Security";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Bảo mật tài khoản</title>
+    <link rel="stylesheet" href="~/css/setting.css">
+</head>
+<body>
+    <div class="container">
+        @await Html.PartialAsync("_SettingSidebar")
+
+        <div class="main-content">
+            <h2>Bảo mật</h2>
+
+            <div id="messageContainer"></div>
+            <div class="settings">
+                <div class="setting-row">
+                    <label for="currentPassword" class="setting-label">Mật khẩu hiện tại</label>
+                    <input type="password" id="currentPassword" class="setting-input password-field" disabled>
+                </div>
+                <div class="setting-row">
+                    <label for="newPassword" class="setting-label">Mật khẩu mới</label>
+                    <input type="password" id="newPassword" class="setting-input password-field" disabled>
+                </div>
+                <div class="setting-row">
+                    <label for="confirmPassword" class="setting-label">Xác nhận mật khẩu</label>
+                    <input type="password" id="confirmPassword" class="setting-input password-field" disabled>
+                </div>
+                <div class="save-button-container">
+                    <button type="button" class="edit-button" id="changePasswordBtn">Đổi mật khẩu</button>
+                    <button type="button" class="edit-button" id="savePasswordBtn" style="display: none;">Lưu mật khẩu</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/js/setting.js" asp-append-version="true"></script>
+</body>
+</html>

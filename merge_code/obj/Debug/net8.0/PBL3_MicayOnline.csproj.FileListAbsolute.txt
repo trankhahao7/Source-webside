@@ -1,0 +1,1432 @@
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.csproj.AssemblyReference.cache
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfoInputs.cache
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfo.cs
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.csproj.CoreCompileInputs.cache
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cache
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cs
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\appsettings.json
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.runtime.json
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.endpoints.json
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.exe
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.deps.json
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.runtimeconfig.json
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.pdb
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Humanizer.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\bundle\PBL3_MicayOnline.styles.css
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\projectbundle\PBL3_MicayOnline.bundle.scp.css
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.build.PBL3_MicayOnline.props
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PBL3_MicayOnline.props
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PBL3_MicayOnline.props
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_Mic.66E2AAEF.Up2Date
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\refint\PBL3_MicayOnline.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.pdb
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.genruntimeconfig.cache
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\ref\PBL3_MicayOnline.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\phamt\source\repos\PBL3_MicayOnline\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\appsettings.json
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.endpoints.json
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.runtime.json
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.exe
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.deps.json
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.runtimeconfig.json
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.pdb
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Humanizer.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.csproj.AssemblyReference.cache
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfoInputs.cache
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfo.cs
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cache
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cs
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.sourcelink.json
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\bundle\PBL3_MicayOnline.styles.css
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\projectbundle\PBL3_MicayOnline.bundle.scp.css
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.build.PBL3_MicayOnline.props
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PBL3_MicayOnline.props
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PBL3_MicayOnline.props
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_Mic.66E2AAEF.Up2Date
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\refint\PBL3_MicayOnline.dll
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.pdb
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.genruntimeconfig.cache
+C:\Users\phamt\Source-webside\PBL3_MicayOnline\obj\Debug\net8.0\ref\PBL3_MicayOnline.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\appsettings.Development.json
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\appsettings.json
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.runtime.json
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.endpoints.json
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.exe
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.deps.json
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.runtimeconfig.json
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.pdb
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Azure.Core.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Azure.Identity.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Humanizer.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.ClientModel.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.CodeDom.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Text.Json.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.csproj.AssemblyReference.cache
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfoInputs.cache
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfo.cs
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.csproj.CoreCompileInputs.cache
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cs
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cache
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cache
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cs
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\bundle\PBL3_MicayOnline.styles.css
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\projectbundle\PBL3_MicayOnline.bundle.scp.css
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.build.json
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.development.json
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.build.PBL3_MicayOnline.props
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PBL3_MicayOnline.props
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PBL3_MicayOnline.props
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_Mic.66E2AAEF.Up2Date
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\refint\PBL3_MicayOnline.dll
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.pdb
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.genruntimeconfig.cache
+D:\Source-webside-main\Source-webside-main\PBL3_MicayOnline\obj\Debug\net8.0\ref\PBL3_MicayOnline.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\appsettings.Development.json
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\appsettings.json
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.endpoints.json
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.runtime.json
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.exe
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.deps.json
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.runtimeconfig.json
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.pdb
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Azure.Core.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Azure.Identity.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Humanizer.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.ClientModel.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.CodeDom.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Memory.Data.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Text.Json.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.csproj.AssemblyReference.cache
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfoInputs.cache
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfo.cs
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.csproj.CoreCompileInputs.cache
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cs
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cache
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cache
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cs
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.sourcelink.json
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\bundle\PBL3_MicayOnline.styles.css
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\projectbundle\PBL3_MicayOnline.bundle.scp.css
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.build.json
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.development.json
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssets.props
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.build.PBL3_MicayOnline.props
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PBL3_MicayOnline.props
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PBL3_MicayOnline.props
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.pack.json
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_Mic.66E2AAEF.Up2Date
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.dll
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\refint\PBL3_MicayOnline.dll
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.pdb
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.genruntimeconfig.cache
+D:\filegit\PBL3_MicayOnline\obj\Debug\net8.0\ref\PBL3_MicayOnline.dll
+D:\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\appsettings.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.runtime.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.endpoints.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.exe
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.deps.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.runtimeconfig.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\PBL3_MicayOnline.pdb
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Humanizer.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.csproj.AssemblyReference.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfoInputs.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfo.cs
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.csproj.CoreCompileInputs.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cs
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.sourcelink.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\bundle\PBL3_MicayOnline.styles.css
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\scopedcss\projectbundle\PBL3_MicayOnline.bundle.scp.css
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.build.PBL3_MicayOnline.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PBL3_MicayOnline.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PBL3_MicayOnline.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_Mic.66E2AAEF.Up2Date
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\refint\PBL3_MicayOnline.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.pdb
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\PBL3_MicayOnline.genruntimeconfig.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline\obj\Debug\net8.0\ref\PBL3_MicayOnline.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\appsettings.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.runtime.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.endpoints.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\PBL3_MicayOnline.exe
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\PBL3_MicayOnline.deps.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\PBL3_MicayOnline.runtimeconfig.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\PBL3_MicayOnline.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\PBL3_MicayOnline.pdb
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Humanizer.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_MicayOnline.csproj.AssemblyReference.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_MicayOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfoInputs.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfo.cs
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_MicayOnline.csproj.CoreCompileInputs.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cs
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_MicayOnline.sourcelink.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\scopedcss\bundle\PBL3_MicayOnline.styles.css
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\scopedcss\projectbundle\PBL3_MicayOnline.bundle.scp.css
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\staticwebassets\msbuild.build.PBL3_MicayOnline.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PBL3_MicayOnline.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PBL3_MicayOnline.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_Mic.66E2AAEF.Up2Date
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_MicayOnline.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\refint\PBL3_MicayOnline.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_MicayOnline.pdb
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\PBL3_MicayOnline.genruntimeconfig.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\filegit\PBL3_MicayOnline_huy\obj\Debug\net8.0\ref\PBL3_MicayOnline.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.csproj.AssemblyReference.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfoInputs.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfo.cs
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.csproj.CoreCompileInputs.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cs
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\appsettings.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.runtime.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.endpoints.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.exe
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.deps.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.runtimeconfig.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.pdb
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Humanizer.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\scopedcss\bundle\PBL3_MicayOnline.styles.css
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\scopedcss\projectbundle\PBL3_MicayOnline.bundle.scp.css
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\staticwebassets\msbuild.build.PBL3_MicayOnline.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PBL3_MicayOnline.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PBL3_MicayOnline.props
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\PBL3_Mic.66E2AAEF.Up2Date
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\refint\PBL3_MicayOnline.dll
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.pdb
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.genruntimeconfig.cache
+C:\Users\phamt\OneDrive\Desktop\ki3\PBL3\Source-webside_an\merge_code\obj\Debug\net8.0\ref\PBL3_MicayOnline.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\appsettings.Development.json
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\appsettings.json
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.runtime.json
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.staticwebassets.endpoints.json
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.exe
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.deps.json
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.runtimeconfig.json
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\PBL3_MicayOnline.pdb
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Azure.Core.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Azure.Identity.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Humanizer.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.ClientModel.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.CodeDom.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Text.Json.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.csproj.AssemblyReference.cache
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfoInputs.cache
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.AssemblyInfo.cs
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.csproj.CoreCompileInputs.cache
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cache
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.RazorAssemblyInfo.cs
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\scopedcss\bundle\PBL3_MicayOnline.styles.css
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\scopedcss\projectbundle\PBL3_MicayOnline.bundle.scp.css
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\staticwebassets.build.json
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\staticwebassets.development.json
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\staticwebassets\msbuild.PBL3_MicayOnline.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\staticwebassets\msbuild.build.PBL3_MicayOnline.props
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PBL3_MicayOnline.props
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PBL3_MicayOnline.props
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\PBL3_Mic.66E2AAEF.Up2Date
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\refint\PBL3_MicayOnline.dll
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.pdb
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\PBL3_MicayOnline.genruntimeconfig.cache
+D:\Study\Second Year - Second Semester\PBL\merge_code\obj\Debug\net8.0\ref\PBL3_MicayOnline.dll

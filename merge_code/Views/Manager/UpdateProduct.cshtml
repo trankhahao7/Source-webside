@@ -1,0 +1,61 @@
+﻿@model PBL3_MicayOnline.Models.DTOs.ProductDto
+@{
+Layout = null;
+}
+
+<!DOCTYPE html> 
+<html lang="vi"> 
+    <head> 
+        <meta charset="utf-8" />
+        <title>Chỉnh sửa sản phẩm</title> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <link rel="stylesheet" href="~/css/Add.css"> 
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"> 
+        <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet"> 
+        <link rel="icon" type="images/png" href="~/images/logo.png"> 
+        </head> 
+    <body> <div class="container"> 
+        <h1 class="title">CHỈNH SỬA SẢN PHẨM</h1> 
+        <form class="form" id="editProductForm" enctype="multipart/form-data"> 
+            <input type="hidden" id="productId" value="@Model.ProductId" />
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="productName">Tên Sản Phẩm:</label>
+                    <input type="text" id="productName" value="@Model.Name" required />
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="description">Mô tả:</label>
+                    <input type="text" id="description" value="@Model.Description" required />
+                </div>
+                <div class="form-group">
+                    <label for="price">Giá:</label>
+                    <input type="number" id="price" value="@Model.Price" step="0.01" required />
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="categoryId">Danh mục ID:</label>
+                    <input type="text" id="categoryId" value="@Model.CategoryId" required />
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group full-width">
+                    <label for="imageFile">Chọn ảnh mới (nếu muốn thay):</label>
+                    <input type="file" id="imageFile" accept="image/*" />
+                </div>
+            </div>
+
+            <div class="button-group">
+                <button type="submit" class="btn">LƯU THAY ĐỔI</button>
+                <a asp-controller="Manager" asp-action="Product" class="btn">HỦY</a>
+            </div>
+        </form>
+    </div>
+    <script src="~/js/editproduct.js"></script>
+</body>
+</html>
