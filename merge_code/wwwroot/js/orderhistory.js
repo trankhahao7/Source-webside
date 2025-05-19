@@ -16,6 +16,34 @@ function formatDate(dateString) {
     return `${day}/${month}/${year} ${hours}:${minutes}`;
 }
 
+// Map promoCodeId => code
+let promoCodeMap = {};
+
+// Gọi API để lấy danh sách mã giảm giá
+async function loadPromoCodes() {
+    const token = localStorage.getItem('token');
+    if (!token) return;
+
+    try {
+        const response = await fetch('https://localhost:7171/api/PromoApi', {
+            headers: {
+                'Authorization': 'Bearer ' + token,
+                'Accept': 'application/json'
+            }
+        });
+
+        if (!response.ok) {
+            console.warn('Không thể tải mã giảm giá.');
+            return;
+        }
+
+        const data = await response.json();
+        promoCodeMap = Object.fromEntries(data.map(p => [p.promoCodeId, p.code]));
+    } catch (error) {
+        console.error('Lỗi khi tải mã giảm giá:', error);
+    }
+}
+
 // Hiển thị danh sách đơn hàng trong bảng
 function renderOrders(orders) {
     const tbody = document.getElementById('tableBody');
@@ -26,16 +54,20 @@ function renderOrders(orders) {
         return;
     }
 
-    tbody.innerHTML = orders.map(order => `
-        <tr>
-            <td>${order.orderId}</td>
-            <td>${formatDate(order.orderDate)}</td>
-            <td>${(order.totalAmount || 0).toLocaleString('vi-VN')} VNĐ</td>
-            <td>${order.status || 'Chưa xác định'}</td>
-            <td>${order.promoCodeId != null ? order.promoCodeId : 'Không áp dụng'}</td>
-            <td><button class="view-btn" data-id="${order.orderId}">Xem</button></td>
-        </tr>
-    `).join('');
+    tbody.innerHTML = orders.map(order => {
+        const promoCode = promoCodeMap[order.promoCodeId] || 'Không áp dụng';
+
+        return `
+            <tr>
+                <td>${order.orderId}</td>
+                <td>${formatDate(order.orderDate)}</td>
+                <td>${(order.totalAmount || 0).toLocaleString('vi-VN')} VNĐ</td>
+                <td>${order.status || 'Chưa xác định'}</td>
+                <td>${promoCode}</td>
+                <td><button class="view-btn" data-id="${order.orderId}">Xem</button></td>
+            </tr>
+        `;
+    }).join('');
 }
 
 // Gọi API lấy danh sách đơn hàng
@@ -75,7 +107,7 @@ function searchOrders() {
     const filtered = window.allOrders.filter(order =>
         order.orderId.toString().includes(keyword) ||
         (order.status && order.status.toLowerCase().includes(keyword)) ||
-        (order.promoCodeId && order.promoCodeId.toString().includes(keyword))
+        (promoCodeMap[order.promoCodeId] && promoCodeMap[order.promoCodeId].toLowerCase().includes(keyword))
     );
     renderOrders(filtered);
 }
@@ -168,8 +200,9 @@ function closeModal() {
 }
 
 // Sự kiện DOM load
-document.addEventListener('DOMContentLoaded', () => {
-    loadOrders();
+document.addEventListener('DOMContentLoaded', async () => {
+    await loadPromoCodes(); // Lấy mã giảm giá trước
+    await loadOrders();     // Rồi mới hiển thị đơn hàng
 
     document.getElementById('searchBtn')?.addEventListener('click', searchOrders);
     document.getElementById('search')?.addEventListener('keypress', e => {
@@ -182,11 +215,7 @@ document.addEventListener('DOMContentLoaded', () => {
             loadOrderDetail(id);
         }
 
-        if (e.target.classList.contains('close-btn')) {
-            closeModal();
-        }
-
-        if (e.target.id === 'orderDetailModal') {
+        if (e.target.classList.contains('close-btn') || e.target.id === 'orderDetailModal') {
             closeModal();
         }
     });

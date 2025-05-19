@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using PBL3_MicayOnline.Data;
+using PBL3_MicayOnline.Services;
 using PBL3_MicayOnline.Services.Implementations;
 using PBL3_MicayOnline.Services.Interfaces;
 using System.Security.Claims;
@@ -23,6 +24,8 @@ builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddScoped<IFeedbackService, FeedbackService>();
 builder.Services.AddScoped<IHashingService, HashingService>();
 builder.Services.AddScoped<ICartService, CartService>();
+builder.Services.AddScoped<IPromoCodeService, PromoCodeService>();
+
 
 builder.Services.AddSession(options =>
 {
