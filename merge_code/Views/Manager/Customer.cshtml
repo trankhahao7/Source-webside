@@ -59,6 +59,9 @@
                                     <td>
                                         <input type="checkbox" class="select-customer" data-id="@customer.UserId" />
                                     </td>
+                                    <td>
+                                        <a asp-controller="Manager" asp-action="UpdateAccount" asp-route-id="@customer.UserId" class="button">Chỉnh sửa</a>
+                                    </td>
                                 </tr>
                             }
                         </tbody>
@@ -67,7 +70,7 @@
             </div>
 
             <div class="action-buttons">
-                <button id="editCustomerBtn">Chỉnh sửa Tài Khoản</button>
+               
                 <a asp-controller="Manager" asp-action="AddCustomer" class="button">Thêm Tài Khoản</a>
                 <button id="batchDeleteBtn">Xóa Đã Chọn</button>
                 <a asp-controller="Home" asp-action="Index" class="button">Quay Lại</a>
