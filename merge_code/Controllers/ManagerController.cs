@@ -82,5 +82,6 @@ namespace PBL3_MicayOnline.Controllers
             if (product == null) return NotFound();
             return View(product);
         }
+
     }
 }
