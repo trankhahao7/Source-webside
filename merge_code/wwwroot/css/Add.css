@@ -83,3 +83,12 @@
     .btn:hover {
         background-color: #a00000;
     }
+
+
+.form-group select {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 40px; /* hoặc tùy chỉnh chiều cao */
+}
