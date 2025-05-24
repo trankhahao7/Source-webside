@@ -45,7 +45,7 @@ async function submitOrder() {
 
     const payload = {
         userId: userId,
-        promoCodeId: null, // nếu có mã giảm giá có thể thay đổi chỗ này
+        promoCodeId: appliedPromoCodeId, // nếu có mã giảm giá có thể thay đổi chỗ này
         items: items
     };
 
