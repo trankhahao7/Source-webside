@@ -193,6 +193,13 @@ document.addEventListener('DOMContentLoaded', function () {
             await updateQuantity(productId, newQuantity);
             input.value = newQuantity;
             updateTotalPrice();
+
+            if (window.cartItems) {
+                const cartItem = window.cartItems.find(item => item.ProductId === parseInt(productId));
+                if (cartItem) {
+                    cartItem.Quantity = newQuantity;
+                }
+            }
         });
     });
 
