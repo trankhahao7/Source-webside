@@ -1,0 +1,60 @@
+﻿@model List<CartItemDto>
+
+@{
+    ViewData["Title"] = "Giỏ hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+    <link rel="stylesheet" href="~/css/cart.css" />
+</head>
+<body>
+    @Html.AntiForgeryToken()
+    <div class="cart-container">
+        <h1 class="cart-header">Giỏ Hàng Của Bạn</h1>
+        @if (Model.Count == 0)
+        {
+            <div>Giỏ hàng trống.</div>
+        }
+        else
+        {
+            foreach (var item in Model)
+            {
+                <div class="cart-item" data-product-id="@item.ProductId">
+                    <img src="@Url.Content(item.ImageUrl ?? "~/images/default.png")" alt="@item.Name" class="product-image">
+                    <div class="product-info">
+                        <div class="product-title">@item.Name</div>
+                        <div class="quantity-control">
+                            <button type="button" class="quantity-btn decrease" data-product-id="@item.ProductId">−</button>
+                            <input type="number" class="quantity-input" value="@item.Quantity" min="1" readonly data-product-id="@item.ProductId">
+                            <button type="button" class="quantity-btn increase" data-product-id="@item.ProductId">+</button>
+                        </div>
+                    </div>
+                    <div class="product-price">@item.Price.ToString("N0") VNĐ</div>
+                    <button type="button" class="delete-btn" data-product-id="@item.ProductId">Xóa</button>
+                </div>
+            }
+            <div class="cart-summary">
+                <div class="total-price">
+                    Tổng cộng: @Model.Sum(x => x.Price * x.Quantity).ToString("N0") VNĐ
+                </div>
+                <button id="btnCheckout" class="checkout-btn">Thanh toán</button>
+            </div>
+            <div class="promo-code-section">
+                <label for="promoCode">Nhập mã giảm giá:</label>
+                <input type="text" id="promoCode" name="promoCode" />
+                <button id="checkPromo" type="button">Kiểm tra</button>
+                <span id="promoMessage" style="color: green;"></span>
+            </div>
+        }
+    </div>
+
+    <script>
+        window.cartItems = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model));
+    </script>
+    <script>
+        if (performance.navigation.type === 2) { // 2 = back/forward
+            window.location.reload();
+        }
+    </script>
+    <script src="~/js/cart.js"></script>
+</body>

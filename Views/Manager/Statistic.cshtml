@@ -1,0 +1,38 @@
+﻿@model StatisticViewModel
+@{
+    ViewData["Title"] = "Thống kê đơn hàng";
+    Layout = null;
+}
+<head>
+    <link rel="stylesheet" href="~/css/Admin.css" asp-append-version="true">
+</head>
+
+<body>
+    <div class="container">
+        @await Html.PartialAsync("_ManageSidebar")
+            <div class="main-content">
+                <div class="header">
+                <h2>Thống kê đơn hàng theo @Model.Type</h2>
+                </div>
+
+            <form method="get" class="search-bar" style="justify-content: center;">
+                <label for="date">Ngày:</label>
+                <input type="date" id="date" name="date" value="@Model.Date.ToString("yyyy-MM-dd")" />
+
+                <label for="type">Loại:</label>
+                <select name="type" id="type" style="padding: 8px; border-radius: 6px; border: 1px solid #ccc;">
+                    <option value="month" selected="@("month" == Model.Type)">Theo tháng</option>
+                    <option value="year" selected="@("year" == Model.Type)">Theo năm</option>
+                </select>
+
+                <button type="submit" class="button">Xem thống kê</button>
+            </form>
+                <canvas id="statisticChart"
+                    data-date="@Model.Date.ToString("yyyy-MM-dd")"
+                    data-type="@Model.Type">
+                </canvas>
+            </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="~/js/chart.js"></script>
+</body>

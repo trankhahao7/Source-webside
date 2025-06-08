@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Setting";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Thông tin cá nhân</title>
+    <link rel="stylesheet" href="~/css/setting.css">
+</head>
+<body>
+    <div class="container">
+        @await Html.PartialAsync("_SettingSidebar")
+        <div class="main-content">
+            <h2>Thông tin cá nhân</h2>
+            <div id="messageContainer"></div>
+            <div class="settings">
+                <div class="setting-row">
+                    <label class="setting-label">Họ và tên</label>
+                    <input type="text" class="setting-input" id="fullName" value="" disabled>
+                    <button class="edit-button" data-target="fullName">Edit</button>
+                </div>
+
+                <div class="setting-row">
+                    <label class="setting-label">Email</label>
+                    <input type="email" class="setting-input" id="email" value="" disabled>
+                    <button class="edit-button" data-target="email">Edit</button>
+                </div>
+
+                <div class="setting-row">
+                    <label class="setting-label">Số điện thoại</label>
+                    <input type="tel" class="setting-input" id="phone" value="" disabled>
+                    <button class="edit-button" data-target="phone">Edit</button>
+                </div>
+
+                <div class="setting-row">
+                    <button id="saveChangesButton" style="margin-top: 20px; padding: 10px 15px;">Lưu thay đổi</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="~/js/setting.js" asp-append-version="true"></script>
+</body>
+</html>

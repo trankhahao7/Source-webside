@@ -1,0 +1,86 @@
+﻿@model List<CartItemDto>
+
+@{
+    ViewData["Title"] = "Mỳ cay Hot Hot - Thanh Toán";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/payment.css" asp-append-version="true">
+</head>
+
+<body>
+    <div class="payment-container">
+        <h2>Chọn Kiểu Thanh Toán</h2>
+        <input type="hidden" id="orderId" value="@ViewBag.OrderId" />
+
+        <div class="amount-box">
+            <strong>Số tiền cần thanh toán:</strong>
+            <span id="totalAmount" style="font-weight:bold;color:#E53935">...</span>
+        </div>
+        <br />
+
+        <label class="payment-option">
+            <input type="radio" name="payment" value="cod">
+            Thanh toán khi nhận hàng (COD)
+        </label>
+
+        <label class="payment-option">
+            <input type="radio" name="payment" value="momo">
+            Ví điện tử MoMo
+        </label>
+
+        <a href="#" class="confirm-btn">Xác nhận thanh toán</a>
+    </div>
+
+    <script src="~/js/payment.js" asp-append-version="true"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", async function () {
+            const orderId = document.getElementById("orderId").value;
+            const token = localStorage.getItem('token');
+            try {
+                const response = await fetch(`https://localhost:7171/api/OrderApi/${orderId}`, {
+                    method: 'GET',
+                    headers: {
+                        'accept': 'application/json',
+                        'Authorization': 'Bearer ' + token
+                    }
+                });
+                if (response.ok) {
+                    const data = await response.json();
+                    const amount = data.totalAmount  || 0;
+                    document.getElementById("totalAmount").innerText = amount.toLocaleString('vi-VN') + " VNĐ";
+                } else if (response.status === 403) {
+                    // Trường hợp không có quyền truy cập
+                    document.getElementById("totalAmount").innerText = "Bạn không có quyền truy cập đơn hàng này!";
+                    // Ẩn/khóa các lựa chọn thanh toán nếu muốn
+                    document.querySelectorAll('.payment-option input').forEach(input => input.disabled = true);
+                    document.querySelector('.confirm-btn').style.pointerEvents = "none";
+                    document.querySelector('.confirm-btn').style.opacity = "0.5";
+                } else if (response.status === 401) {
+                    // Trường hợp chưa đăng nhập
+                    document.getElementById("totalAmount").innerText = "Vui lòng đăng nhập để tiếp tục!";
+                    document.querySelectorAll('.payment-option input').forEach(input => input.disabled = true);
+                    document.querySelector('.confirm-btn').style.pointerEvents = "none";
+                    document.querySelector('.confirm-btn').style.opacity = "0.5";
+                } else if (response.status === 404) {
+                    document.getElementById("totalAmount").innerText = "Đơn hàng không tồn tại!";
+                    document.querySelectorAll('.payment-option input').forEach(input => input.disabled = true);
+                    document.querySelector('.confirm-btn').style.pointerEvents = "none";
+                    document.querySelector('.confirm-btn').style.opacity = "0.5";
+                } else {
+                    document.getElementById("totalAmount").innerText = "Không thể lấy số tiền!";
+                    document.querySelectorAll('.payment-option input').forEach(input => input.disabled = true);
+                    document.querySelector('.confirm-btn').style.pointerEvents = "none";
+                    document.querySelector('.confirm-btn').style.opacity = "0.5";
+                }
+            } catch (e) {
+                document.getElementById("totalAmount").innerText = "Không thể lấy số tiền!";
+                document.querySelectorAll('.payment-option input').forEach(input => input.disabled = true);
+                document.querySelector('.confirm-btn').style.pointerEvents = "none";
+                document.querySelector('.confirm-btn').style.opacity = "0.5";
+            }
+        });
+    </script>
+
+</body>
