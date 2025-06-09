@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Mỳ cay Hot Hot - Lịch Sử Đơn Hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/orderhistory.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="main-area">
+        <div class="main-content">
+            <div class="header">
+                <h1>Lịch Sử Đơn Hàng</h1>
+            </div>
+
+            <div class="search-bar">
+                <label for="search">Tìm kiếm:</label>
+                <input type="text" id="search" placeholder="Nhập từ khóa...">
+                <button id="searchBtn">Tìm kiếm</button>
+            </div>
+
+            <div class="data-table">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Chọn Thanh Toán</th>
+                            <th>Mã Đơn Hàng</th>
+                            <th>Ngày Đặt</th>
+                            <th>Tổng Tiền</th>
+                            <th>Trạng Thái</th>
+                            <th>Mã Giảm Giá</th>
+                            <th>Thanh Toán - Phương Thức</th>
+                            <th>Thanh Toán - Trạng Thái</th>
+                            <th>Chi tiết đơn hàng</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        <!-- Dữ liệu đơn hàng sẽ được JS đổ vào -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="action-buttons bottom-buttons">
+                <a asp-controller="Orders" asp-action="Order" class="button">Tạo Đơn Hàng Mới</a>
+                <a asp-controller="Home" asp-action="Index" class="button">Quay Lại</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal hiển thị chi tiết đơn hàng -->
+    <div id="orderDetailModal" class="modal hidden">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <h2>Chi Tiết Đơn Hàng</h2>
+            <div id="modalBody">
+                <!-- Nội dung chi tiết đơn sẽ được JS đổ vào -->
+            </div>
+        </div>
+    </div>
+
+    <script src="~/js/orderhistory.js"></script>
+</body>

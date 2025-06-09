@@ -1,0 +1,86 @@
+﻿@model List<PBL3_MicayOnline.Models.DTOs.ProductDto>
+@Html.AntiForgeryToken()
+@{
+    ViewData["Title"] = "Mỳ cay Hot Hot - Đặt Hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var categories = new List<string> { "ALL", "Đồ chiên", "Mỳ kim chi", "Mỳ lẩu thái", "Nước Uống", "Tobokki" };
+    var selectedCategory = ViewBag.SelectedCategory as string ?? "ALL";
+    var isFewProducts = Model.Count < 3;
+
+}
+@if (TempData["CartMessage"] != null)
+{
+    <div class="alert alert-success" style="margin: 10px 0;">@TempData["CartMessage"]</div>
+}
+
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/order.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h3>DANH MỤC SẢN PHẨM</h3>
+            @foreach (var cat in categories)
+            {
+                <a href="@Url.Action("Order", "Orders", new { category = cat })"
+                   class="menu-item @(selectedCategory == cat ? "active" : "")">@cat</a>
+            }
+        </div>
+        <div class="main-content">
+            <div class="header-row">
+                <h1 class="section-title">CHI TIẾT SẢN PHẨM</h1>
+                <div class="sort-option">
+                    Sắp xếp:
+                    <select id="sortSelect">
+                        <option value="default">Mặc định</option>
+                        <option value="asc">Giá tăng dần</option>
+                        <option value="desc">Giá giảm dần</option>
+                    </select>
+                </div>
+            </div>
+            <div class="product-list @(isFewProducts ? "few-products" : "")" id="productList">
+                @foreach (var product in Model)
+                {
+                    <div class="product-item" data-category="@product.CategoryName">
+                        <img src="@Url.Content(product.ImageUrl ?? "~/images/default.png")" alt="@product.Name" />
+                        <div class="product-title">@product.Name</div>
+                        <div class="product-price">@product.Price.ToString("N0") VNĐ</div>
+                        <form method="post" asp-action="AddToCart" asp-controller="Order">
+                            <input type="hidden" name="productId" value="@product.ProductId" />
+                            <input type="hidden" name="quantity" value="1" />
+                            <button type="button"
+                                    onclick="addToCart(@product.ProductId, 1)">
+                                Thêm vào giỏ hàng
+                            </button>
+                        </form>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+    <script>
+        // Sắp xếp sản phẩm theo giá
+        document.getElementById('sortSelect').addEventListener('change', function () {
+            let sortType = this.value;
+            let productList = document.getElementById('productList');
+            let items = Array.from(productList.getElementsByClassName('product-item'));
+            items.sort((a, b) => {
+                let priceA = parseInt(a.querySelector('.product-price').innerText.replace(/\D/g, ''));
+                let priceB = parseInt(b.querySelector('.product-price').innerText.replace(/\D/g, ''));
+                if (sortType === 'asc') return priceA - priceB;
+                if (sortType === 'desc') return priceB - priceA;
+                return 0;
+            });
+            items.forEach(item => productList.appendChild(item));
+        });
+    </script>
+    <script src="~/js/cart.js"></script>
+
+</body>
+

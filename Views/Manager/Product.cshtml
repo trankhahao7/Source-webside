@@ -1,0 +1,83 @@
+﻿@model IEnumerable<PBL3_MicayOnline.Models.DTOs.ProductDto>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <title>Mỳ cay Hot Hot - Quản lý Sản Phẩm</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" asp-append-version="true" href="~/css/Admin.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <link rel="icon" type="images/png" href="~/images/logo.png">
+</head>
+<body>
+    <div class="container">
+        @await Html.PartialAsync("_ManageSidebar")
+        <div class="main-area">
+            <div class="main-content">
+                <div class="header">
+                    <h1>ADMIN</h1>
+                </div>
+
+                <div class="search-bar">
+                    <label for="search">Tìm kiếm:</label>
+                    <input type="text" id="search" placeholder="Nhập từ khóa...">
+                    <button id="searchBtn">Tìm kiếm</button>
+                </div>
+
+                <div class="data-table">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Tên Sản Phẩm</th>
+                                <th>Mô tả Sản Phẩm</th>
+                                <th>Giá</th>
+                                <th>Tên danh mục</th>
+                                <th>Chọn</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableBody">
+                            @if (Model != null && Model.Any())
+                            {
+                                foreach (var product in Model)
+                                {
+                                    <tr>
+                                        <td>@product.ProductId</td>
+                                        <td>@product.Name</td>
+                                        <td>@product.Description</td>
+                                        <td>@product.Price.ToString("N0") ₫</td>
+                                        <td>@product.CategoryName</td>
+                                        <td>
+                                            <input type="checkbox" class="select-product" data-id="@product.ProductId" />
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                            else
+                            {
+                                <tr>
+                                    <td colspan="6">Không có sản phẩm nào.</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="action-buttons">
+                <a asp-controller="Manager" asp-action="AddProduct" class="button">Thêm Sản Phẩm</a>
+                <button id="editBtn">Sửa Sản Phẩm</button>
+                <button id="deleteBtn">Xóa Sản Phẩm</button>
+                <a asp-controller="Home" asp-action="Index" class="button">Quay Lại</a>
+            </div>
+        </div>
+    </div>
+    <script src="~/js/manageproduct.js"></script>
+</body>
+</html>

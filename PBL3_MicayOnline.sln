@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBL3_MicayOnline", "PBL3_MicayOnline.csproj", "{508311BE-958D-EE95-E4BD-89471A0232E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{508311BE-958D-EE95-E4BD-89471A0232E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508311BE-958D-EE95-E4BD-89471A0232E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508311BE-958D-EE95-E4BD-89471A0232E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508311BE-958D-EE95-E4BD-89471A0232E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3080BFBF-A4D8-4577-A0A9-0CF7518B3F64}
+	EndGlobalSection
+EndGlobal
